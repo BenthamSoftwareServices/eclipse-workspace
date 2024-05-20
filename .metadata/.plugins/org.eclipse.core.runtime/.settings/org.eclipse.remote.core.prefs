@@ -1,0 +1,11 @@
+connections/org.eclipse.remote.serial.core.connectionType/ESP32+DEVKIT+v1/serial.baudRate=11
+connections/org.eclipse.remote.serial.core.connectionType/ESP32+DEVKIT+v1/serial.byteSize=3
+connections/org.eclipse.remote.serial.core.connectionType/ESP32+DEVKIT+v1/serial.parity=0
+connections/org.eclipse.remote.serial.core.connectionType/ESP32+DEVKIT+v1/serial.portName=COM30
+connections/org.eclipse.remote.serial.core.connectionType/ESP32+DEVKIT+v1/serial.stopBits=0
+connections/org.eclipse.remote.serial.core.connectionType/ESP32/serial.baudRate=11
+connections/org.eclipse.remote.serial.core.connectionType/ESP32/serial.byteSize=3
+connections/org.eclipse.remote.serial.core.connectionType/ESP32/serial.parity=0
+connections/org.eclipse.remote.serial.core.connectionType/ESP32/serial.portName=COM50
+connections/org.eclipse.remote.serial.core.connectionType/ESP32/serial.stopBits=0
+eclipse.preferences.version=1

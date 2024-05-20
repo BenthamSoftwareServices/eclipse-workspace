@@ -1,0 +1,19 @@
+Total sizes:
+Used static DRAM:   11028 bytes ( 169708 remain, 6.1% used)
+      .data size:    8788 bytes
+      .bss  size:    2240 bytes
+Used static IRAM:   50970 bytes (  80102 remain, 38.9% used)
+      .text size:   49943 bytes
+   .vectors size:    1027 bytes
+Used Flash size :  119455 bytes
+           .text:   80395 bytes
+         .rodata:   38804 bytes
+Total image size:  179213 bytes (.bin may be padded larger)
+C:\Espressif\python_env\idf5.2_py3.12_env\Scripts\python.exe C:\ESP-IDF\esp-idf-v5.2.1\components\partition_table\gen_esp32part.py E:\Users\Steven\Documents\GitHub\eclipse-workspace\Blink_LED\build\partition_table\partition-table.bin
+clangd Troubleshooting:
+1. If there are any unresolved header issues, please check the query driver configured in Preferences > C/C++ > Build > Editor(LSP) > clangd and
+ set the correct Drivers path. This should always point to the current target toolchain you're using.
+ For example, if you are building for esp32, it should point to /user/path/.espressif/tools/xtensa-esp32-elf/esp-12.2.0_20230208/xtensa-esp32-elf/bin/xtensa-esp32-elf-gcc.
+
+2. To enable source code navigation (i.e., navigation to .c files), you need to set compile-commands-cmd argument to clangd with the build folder.
+ To do this, navigate to Preferences > C/C++ > Build > Editor(LSP) > clangd and set --compile-commands-cmd=/user/path/workspace/project/build in the additional arguments text area.Total time taken to build the project: 1,830 ms
