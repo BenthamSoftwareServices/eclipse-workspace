@@ -2,12 +2,15 @@
 #include "esp_event.h"
 #include <stdbool.h>
 #include <stdio.h>
+#include <stdlib.h>
 #include <sys/unistd.h>
 #include <unistd.h>
 
-#define led 2 //  Led is connected GPIO 2
+#define led 2 //  Led is connected GPIO 2, the on-board LED on an ESP32 module
 
-int count = 0;
+int count = 0; //A value to be incremented and compared to predefined_value
+int predefined_value = 10; // Define the predefined value
+int var = 0; // Initialise the variable
 
 void app_main(void) {
 
@@ -20,6 +23,15 @@ void app_main(void) {
   while (true) {
     printf("Hello from app_main!\n");
     sleep(1);
+    
+    if (count == predefined_value) {
+            printf("Predefined value reached. Run While loop...\n");
+            while (var < 10) {
+				printf("Running While loop...\n");
+				sleep(1);
+        // Do nothing inside the loop
+    }
+    }
     count++;
     printf("The value of count is: %d\n", count);
     sleep(1);
