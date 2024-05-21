@@ -1,7 +1,7 @@
 {
     "version":            "1.1",
     "project_name":       "app-template",
-    "project_version":    "1",
+    "project_version":    "d534355-dirty",
     "project_path":       "E:/Users/Steven/Documents/GitHub/eclipse-workspace/Blink_LED",
     "idf_path":           "C:/ESP-IDF/esp-idf-v5.2.1",
     "build_dir":          "E:/Users/Steven/Documents/GitHub/eclipse-workspace/Blink_LED/build",

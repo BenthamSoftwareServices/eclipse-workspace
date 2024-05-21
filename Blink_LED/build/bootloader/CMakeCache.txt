@@ -251,7 +251,7 @@ IGNORE_EXTRA_COMPONENT:UNINITIALIZED=
 PROJECT_SOURCE_DIR:UNINITIALIZED=E:/Users/Steven/Documents/GitHub/eclipse-workspace/Blink_LED
 
 //No help, variable specified on the command line.
-PYTHON:UNINITIALIZED=C:/Espressif/python_env/idf5.2_py3.12_env/Scripts/python.exe
+PYTHON:UNINITIALIZED=C:/Espressif/python_env/idf5.2_py3.11_env/Scripts/python.exe
 
 //No help, variable specified on the command line.
 PYTHON_DEPS_CHECKED:UNINITIALIZED=1

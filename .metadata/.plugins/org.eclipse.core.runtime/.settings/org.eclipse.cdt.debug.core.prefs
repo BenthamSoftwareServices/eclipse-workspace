@@ -1,2 +1,2 @@
 eclipse.preferences.version=1
-org.eclipse.cdt.debug.core.cDebug.default_source_containers=<?xml version\="1.0" encoding\="UTF-8" standalone\="no"?>\r\n<sourceLookupDirector>\r\n    <sourceContainers duplicates\="false"/>\r\n</sourceLookupDirector>\r\n
+org.eclipse.cdt.debug.core.cDebug.default_source_containers=<?xml version\="1.0" encoding\="UTF-8" standalone\="no"?>\r\n<sourceLookupDirector>\r\n    <sourceContainers duplicates\="false">\r\n        <container memento\="&lt;?xml version\=&quot;1.0&quot; encoding\=&quot;UTF-8&quot; standalone\=&quot;no&quot;?&gt;&\#13;&\#10;&lt;workspace/&gt;&\#13;&\#10;" typeId\="org.eclipse.debug.core.containerType.workspace"/>\r\n    </sourceContainers>\r\n</sourceLookupDirector>\r\n

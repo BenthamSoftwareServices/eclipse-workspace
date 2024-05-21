@@ -16,4 +16,4 @@ clangd Troubleshooting:
  For example, if you are building for esp32, it should point to /user/path/.espressif/tools/xtensa-esp32-elf/esp-12.2.0_20230208/xtensa-esp32-elf/bin/xtensa-esp32-elf-gcc.
 
 2. To enable source code navigation (i.e., navigation to .c files), you need to set compile-commands-cmd argument to clangd with the build folder.
- To do this, navigate to Preferences > C/C++ > Build > Editor(LSP) > clangd and set --compile-commands-cmd=/user/path/workspace/project/build in the additional arguments text area.Total time taken to build the project: 1,830 ms
+ To do this, navigate to Preferences > C/C++ > Build > Editor(LSP) > clangd and set --compile-commands-cmd=/user/path/workspace/project/build in the additional arguments text area.Total time taken to build the project: 450 ms
