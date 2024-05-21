@@ -4816,3 +4816,154 @@ java.lang.NullPointerException: Cannot invoke "org.eclipse.ui.IEditorPart.getEdi
 	at org.eclipse.cdt.dsf.debug.ui.sourcelookup.DsfSourceDisplayAdapter$LookupJob.performLookup(DsfSourceDisplayAdapter.java:252)
 	at org.eclipse.cdt.dsf.debug.ui.sourcelookup.DsfSourceDisplayAdapter$LookupJob.run(DsfSourceDisplayAdapter.java:203)
 	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-21 13:41:51.657
+!MESSAGE Port 3333 is available
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-21 13:41:51.666
+!MESSAGE Port 3333 is available
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-21 13:41:51.670
+!MESSAGE Port 4444 is available
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-21 13:41:51.672
+!MESSAGE Port 6666 is available
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-21 13:41:51.709
+!MESSAGE Open On-Chip Debugger v0.12.0-esp32-20230921 (2023-09-21-13:40)
+Licensed under GNU GPL v2
+For bug reports, read
+	http://openocd.org/doc/doxygen/bugs.html
+
+!ENTRY org.eclipse.embedcdt.managedbuild.cross.riscv.core 4 1 2024-05-21 13:41:51.711
+!MESSAGE C:\Espressif\tools\openocd-esp32\v0.12.0-esp32-20230921\openocd-esp32\bin/openocd.exe -c gdb_port 3333 -c telnet_port 4444 -c tcl_port 6666 -s C:\Espressif\tools\openocd-esp32\v0.12.0-esp32-20230921\openocd-esp32\bin/share/openocd/scripts -f interface/ftdi/esp32_devkitj_v1.cfg -f target/esp32.cfg -c program_esp_bins E:/Users/Steven/Documents/GitHub/eclipse-workspace/Blink_LED_by_steve_2/build flasher_args.json verify reset -c echo "Started by GNU MCU Eclipse"
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-21 13:41:53.355
+!MESSAGE clangd: C:\Espressif\tools\esp-clang\16.0.1-fe4f10a809\esp-clang\bin\clangd.exe
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-21 13:41:53.368
+!MESSAGE toolchain path: C:\Espressif\tools\xtensa-esp-elf\esp-13.2.0_20230928\xtensa-esp-elf\bin\xtensa-esp32-elf-gcc.exe
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-21 13:41:56.388
+!MESSAGE Port 3333 is not available, trying next port: 3334
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-21 13:41:56.391
+!MESSAGE Port 3334 is available
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-21 13:41:56.394
+!MESSAGE Port 4444 is not available, trying next port: 4445
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-21 13:41:56.396
+!MESSAGE Port 4445 is available
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-21 13:41:56.398
+!MESSAGE Port 6666 is not available, trying next port: 6667
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-21 13:41:56.401
+!MESSAGE Port 6667 is available
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-21 13:41:56.438
+!MESSAGE Open On-Chip Debugger v0.12.0-esp32-20230921 (2023-09-21-13:40)
+Licensed under GNU GPL v2
+For bug reports, read
+	http://openocd.org/doc/doxygen/bugs.html
+
+!ENTRY org.eclipse.embedcdt.managedbuild.cross.riscv.core 4 1 2024-05-21 13:41:56.452
+!MESSAGE C:\Espressif\tools\xtensa-esp-elf-gdb\12.1_20231023\xtensa-esp-elf-gdb\bin\xtensa-esp32-elf-gdb.exe --interpreter=mi2 --nx
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-21 13:41:59.479
+!MESSAGE Project:: P/Blink_LED_by_steve_2
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-21 13:41:59.481
+!MESSAGE Initialization Commands::mon reset halt
+flushregs
+set remote hardware-watchpoint-limit 2
+
+!ENTRY org.eclipse.e4.ui.workbench.swt 4 2 2024-05-21 13:42:07.936
+!MESSAGE Problems occurred when invoking code from plug-in: "org.eclipse.e4.ui.workbench.swt".
+!STACK 0
+org.eclipse.swt.SWTException: Invalid thread access
+	at org.eclipse.swt.SWT.error(SWT.java:4922)
+	at org.eclipse.swt.SWT.error(SWT.java:4837)
+	at org.eclipse.swt.SWT.error(SWT.java:4808)
+	at org.eclipse.swt.widgets.Widget.error(Widget.java:450)
+	at org.eclipse.swt.widgets.Widget.checkWidget(Widget.java:370)
+	at org.eclipse.swt.widgets.Widget.checkParent(Widget.java:301)
+	at org.eclipse.swt.widgets.Widget.<init>(Widget.java:165)
+	at org.eclipse.swt.widgets.Control.<init>(Control.java:114)
+	at org.eclipse.swt.widgets.Scrollable.<init>(Scrollable.java:85)
+	at org.eclipse.swt.widgets.Composite.<init>(Composite.java:99)
+	at org.eclipse.e4.ui.workbench.renderers.swt.ContributedPartRenderer$1.<init>(ContributedPartRenderer.java:86)
+	at org.eclipse.e4.ui.workbench.renderers.swt.ContributedPartRenderer.createWidget(ContributedPartRenderer.java:86)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.createWidget(PartRenderingEngine.java:991)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.safeCreateGui(PartRenderingEngine.java:658)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.safeCreateGui(PartRenderingEngine.java:762)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine$2.run(PartRenderingEngine.java:727)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:47)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.createGui(PartRenderingEngine.java:711)
+	at org.eclipse.e4.ui.internal.workbench.PartServiceImpl.createElement(PartServiceImpl.java:1314)
+	at org.eclipse.e4.ui.internal.workbench.PartServiceImpl.showPart(PartServiceImpl.java:1275)
+	at org.eclipse.ui.internal.WorkbenchPartReference.getPart(WorkbenchPartReference.java:395)
+	at org.eclipse.ui.internal.EditorReference.getEditor(EditorReference.java:283)
+	at org.eclipse.cdt.lsp.LspUtils.isFileOpenedInLspEditor(LspUtils.java:96)
+	at org.eclipse.cdt.lsp.editor.CEditorAssociationOverride.isEnabledFor(CEditorAssociationOverride.java:97)
+	at org.eclipse.cdt.lsp.editor.CEditorAssociationOverride.getEditorDescriptor(CEditorAssociationOverride.java:144)
+	at org.eclipse.cdt.lsp.editor.CEditorAssociationOverride.overrideDefaultEditor(CEditorAssociationOverride.java:71)
+	at org.eclipse.ui.ide.IDE.overrideDefaultEditorAssociation(IDE.java:847)
+	at org.eclipse.ui.ide.IDE.getEditorDescriptorForFileStore(IDE.java:821)
+	at org.eclipse.cdt.dsf.debug.ui.sourcelookup.DsfSourceDisplayAdapter$LookupJob.getEditorIdForFileStore(DsfSourceDisplayAdapter.java:284)
+	at org.eclipse.cdt.dsf.debug.ui.sourcelookup.DsfSourceDisplayAdapter$LookupJob.performLookup(DsfSourceDisplayAdapter.java:252)
+	at org.eclipse.cdt.dsf.debug.ui.sourcelookup.DsfSourceDisplayAdapter$LookupJob.run(DsfSourceDisplayAdapter.java:203)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+
+!ENTRY org.eclipse.e4.ui.workbench 4 0 2024-05-21 13:42:07.937
+!MESSAGE Exception occurred while rendering: org.eclipse.e4.ui.compatibility.editor=org.eclipse.e4.ui.model.application.ui.basic.impl.PartImpl@ca546a1 (tags: [Editor, removeOnHide, org.eclipse.cdt.ui.editor.CEditor], contributorURI: null) (widget: null, renderer: org.eclipse.e4.ui.workbench.renderers.swt.ContributedPartRenderer@18be7f57, toBeRendered: true, onTop: false, visible: true, containerData: null, accessibilityPhrase: null) (contributionURI: bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityEditor, object: null, context: PartImpl (org.eclipse.e4.ui.compatibility.editor)  removeOnHide org.eclipse.cdt.ui.editor.CEditor (cpu.c) Context, variables: [], label: cpu.c, iconURI: platform:/plugin/org.eclipse.cdt.ui/icons/obj16/c_file_obj.gif, tooltip: null, dirty: false, closeable: true, description: null)
+!STACK 0
+org.eclipse.swt.SWTException: Invalid thread access
+	at org.eclipse.swt.SWT.error(SWT.java:4922)
+	at org.eclipse.swt.SWT.error(SWT.java:4837)
+	at org.eclipse.swt.SWT.error(SWT.java:4808)
+	at org.eclipse.swt.widgets.Widget.error(Widget.java:450)
+	at org.eclipse.swt.widgets.Widget.checkWidget(Widget.java:370)
+	at org.eclipse.swt.widgets.Widget.checkParent(Widget.java:301)
+	at org.eclipse.swt.widgets.Widget.<init>(Widget.java:165)
+	at org.eclipse.swt.widgets.Control.<init>(Control.java:114)
+	at org.eclipse.swt.widgets.Scrollable.<init>(Scrollable.java:85)
+	at org.eclipse.swt.widgets.Composite.<init>(Composite.java:99)
+	at org.eclipse.e4.ui.workbench.renderers.swt.ContributedPartRenderer$1.<init>(ContributedPartRenderer.java:86)
+	at org.eclipse.e4.ui.workbench.renderers.swt.ContributedPartRenderer.createWidget(ContributedPartRenderer.java:86)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.createWidget(PartRenderingEngine.java:991)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.safeCreateGui(PartRenderingEngine.java:658)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.safeCreateGui(PartRenderingEngine.java:762)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine$2.run(PartRenderingEngine.java:727)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:47)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.createGui(PartRenderingEngine.java:711)
+	at org.eclipse.e4.ui.internal.workbench.PartServiceImpl.createElement(PartServiceImpl.java:1314)
+	at org.eclipse.e4.ui.internal.workbench.PartServiceImpl.showPart(PartServiceImpl.java:1275)
+	at org.eclipse.ui.internal.WorkbenchPartReference.getPart(WorkbenchPartReference.java:395)
+	at org.eclipse.ui.internal.EditorReference.getEditor(EditorReference.java:283)
+	at org.eclipse.cdt.lsp.LspUtils.isFileOpenedInLspEditor(LspUtils.java:96)
+	at org.eclipse.cdt.lsp.editor.CEditorAssociationOverride.isEnabledFor(CEditorAssociationOverride.java:97)
+	at org.eclipse.cdt.lsp.editor.CEditorAssociationOverride.getEditorDescriptor(CEditorAssociationOverride.java:144)
+	at org.eclipse.cdt.lsp.editor.CEditorAssociationOverride.overrideDefaultEditor(CEditorAssociationOverride.java:71)
+	at org.eclipse.ui.ide.IDE.overrideDefaultEditorAssociation(IDE.java:847)
+	at org.eclipse.ui.ide.IDE.getEditorDescriptorForFileStore(IDE.java:821)
+	at org.eclipse.cdt.dsf.debug.ui.sourcelookup.DsfSourceDisplayAdapter$LookupJob.getEditorIdForFileStore(DsfSourceDisplayAdapter.java:284)
+	at org.eclipse.cdt.dsf.debug.ui.sourcelookup.DsfSourceDisplayAdapter$LookupJob.performLookup(DsfSourceDisplayAdapter.java:252)
+	at org.eclipse.cdt.dsf.debug.ui.sourcelookup.DsfSourceDisplayAdapter$LookupJob.run(DsfSourceDisplayAdapter.java:203)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+
+!ENTRY org.eclipse.core.jobs 4 2 2024-05-21 13:42:07.938
+!MESSAGE An internal error occurred during: "DSF Source Lookup".
+!STACK 0
+java.lang.NullPointerException: Cannot invoke "org.eclipse.ui.IEditorPart.getEditorSite()" because the return value of "org.eclipse.ui.IEditorReference.getEditor(boolean)" is null
+	at org.eclipse.cdt.lsp.LspUtils.isFileOpenedInLspEditor(LspUtils.java:96)
+	at org.eclipse.cdt.lsp.editor.CEditorAssociationOverride.isEnabledFor(CEditorAssociationOverride.java:97)
+	at org.eclipse.cdt.lsp.editor.CEditorAssociationOverride.getEditorDescriptor(CEditorAssociationOverride.java:144)
+	at org.eclipse.cdt.lsp.editor.CEditorAssociationOverride.overrideDefaultEditor(CEditorAssociationOverride.java:71)
+	at org.eclipse.ui.ide.IDE.overrideDefaultEditorAssociation(IDE.java:847)
+	at org.eclipse.ui.ide.IDE.getEditorDescriptorForFileStore(IDE.java:821)
+	at org.eclipse.cdt.dsf.debug.ui.sourcelookup.DsfSourceDisplayAdapter$LookupJob.getEditorIdForFileStore(DsfSourceDisplayAdapter.java:284)
+	at org.eclipse.cdt.dsf.debug.ui.sourcelookup.DsfSourceDisplayAdapter$LookupJob.performLookup(DsfSourceDisplayAdapter.java:252)
+	at org.eclipse.cdt.dsf.debug.ui.sourcelookup.DsfSourceDisplayAdapter$LookupJob.run(DsfSourceDisplayAdapter.java:203)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)

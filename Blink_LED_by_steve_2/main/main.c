@@ -9,7 +9,7 @@
 #define led 2 //  Led is connected GPIO 2, the on-board LED on an ESP32 module
 
 int count = 0; //A value to be incremented and compared to predefined_value
-int predefined_value = 10; // Define the predefined value
+int predefined_value = 1000; // Define the predefined value
 int var = 0; // Initialise the variable
 
 void app_main(void) {
