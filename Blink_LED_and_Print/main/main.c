@@ -5,8 +5,11 @@
 #include <stdlib.h>
 #include <sys/unistd.h>
 #include <unistd.h>
+#include "freertos/FreeRTOS.h"
+#include "freertos/task.h"
 
-#define led 2 //  Led is connected GPIO 2, the on-board LED on an ESP32 module
+//Led is connected GPIO 2, the on-board LED on an ESP32 module
+#define led 2
 
 int count = 0; //A value to be incremented and compared to predefined_value
 int predefined_value = 1000; // Define the predefined value
@@ -22,7 +25,9 @@ void app_main(void) {
 
   while (true) {
     printf("Hello from app_main!\n");
-    sleep(1);
+    //sleep(1);
+    vTaskDelay(200 / portTICK_PERIOD_MS);
+
 
     if (count == predefined_value) {
             printf("Predefined value reached. Run While loop...\n");
@@ -34,7 +39,8 @@ void app_main(void) {
     }
     count++;
     printf("The value of count is: %d\n", count);
-    sleep(1);
+    //sleep(1);
+    vTaskDelay(200 / portTICK_PERIOD_MS);
     gpio_set_level(led, level); // led will be turn ON (level = 0) and OFF (level =1) as value of level
     level = !level; // change the level value
   }

@@ -69,6 +69,7 @@ com.espressif.idf.debug.gdbjtag.openocd.descriptorType\:Blink_LED\ Configuration
 com.espressif.idf.debug.gdbjtag.openocd.descriptorType\:Blink_LED\ Configuration/activeLaunchTarget=com.espressif.idf.launch.serial.core.serialFlashTarget\:esp32
 com.espressif.idf.debug.gdbjtag.openocd.descriptorType\:Blink_LED2\ Configuration/activeLaunchMode=debug
 com.espressif.idf.debug.gdbjtag.openocd.descriptorType\:Blink_LED2\ Configuration/activeLaunchTarget=com.espressif.idf.launch.serial.core.serialFlashTarget\:esp32
+com.espressif.idf.debug.gdbjtag.openocd.descriptorType\:Blink_LED_and_Print\ Configuration/activeLaunchTarget=com.espressif.idf.launch.serial.core.serialFlashTarget\:esp32c6
 com.espressif.idf.debug.gdbjtag.openocd.descriptorType\:Blink_LED_by_steve_2\ Configuration/activeLaunchMode=debug
 com.espressif.idf.debug.gdbjtag.openocd.descriptorType\:Blink_LED_by_steve_2\ Configuration/activeLaunchTarget=com.espressif.idf.launch.serial.core.serialFlashTarget\:esp32
 com.espressif.idf.debug.gdbjtag.openocd.descriptorType\:Flash_LED_ChatGPT\ Configuration/activeLaunchTarget=com.espressif.idf.launch.serial.core.serialFlashTarget\:ESP32_module
@@ -82,6 +83,7 @@ com.espressif.idf.launch.serial.core.idf.descriptorType\:Blink_LED2/activeLaunch
 com.espressif.idf.launch.serial.core.idf.descriptorType\:Blink_LED2/activeLaunchTarget=com.espressif.idf.launch.serial.core.serialFlashTarget\:esp32
 com.espressif.idf.launch.serial.core.idf.descriptorType\:Blink_LED_ChatGPT/activeLaunchMode=run
 com.espressif.idf.launch.serial.core.idf.descriptorType\:Blink_LED_ChatGPT/activeLaunchTarget=com.espressif.idf.launch.serial.core.serialFlashTarget\:esp32
+com.espressif.idf.launch.serial.core.idf.descriptorType\:Blink_LED_and_Print/activeLaunchMode=run
 com.espressif.idf.launch.serial.core.idf.descriptorType\:Blink_LED_and_Print/activeLaunchTarget=com.espressif.idf.launch.serial.core.serialFlashTarget\:ESP32 Module
 com.espressif.idf.launch.serial.core.idf.descriptorType\:Blink_LED_by_steve/activeLaunchMode=run
 com.espressif.idf.launch.serial.core.idf.descriptorType\:Blink_LED_by_steve/activeLaunchTarget=com.espressif.idf.launch.serial.core.serialFlashTarget\:ESP32_module
@@ -93,7 +95,7 @@ com.espressif.idf.launch.serial.core.idf.descriptorType\:Test/activeLaunchMode=r
 com.espressif.idf.launch.serial.core.idf.descriptorType\:Test/activeLaunchTarget=com.espressif.idf.launch.serial.core.serialFlashTarget\:esp32
 com.espressif.idf.launch.serial.core.idf.descriptorType\:blink/activeLaunchMode=run
 com.espressif.idf.launch.serial.core.idf.descriptorType\:blink/activeLaunchTarget=com.espressif.idf.launch.serial.core.serialFlashTarget\:esp32
-configDescList=com.espressif.idf.debug.gdbjtag.openocd.descriptorType\:Blink_LED_by_steve_2 Configuration,org.eclipse.cdt.debug.core.coreBuildDescriptorType\:main,com.espressif.idf.launch.serial.core.idf.descriptorType\:Blink_LED_by_steve_2,com.espressif.idf.debug.gdbjtag.openocd.descriptorType\:Blink_LED_and_Print Configuration,com.espressif.idf.launch.serial.core.idf.descriptorType\:Blink_LED_and_Print
+configDescList=org.eclipse.cdt.debug.core.coreBuildDescriptorType\:main,com.espressif.idf.debug.gdbjtag.openocd.descriptorType\:Blink_LED_and_Print Configuration,com.espressif.idf.launch.serial.core.idf.descriptorType\:Blink_LED_and_Print
 eclipse.preferences.version=1
 org.eclipse.cdt.debug.core.coreBuildDescriptorType\:main/activeLaunchTarget=org.eclipse.launchbar.core.launchTargetType.local\:Local
 org.eclipse.launchbar.core.descriptorType.default\:New_configuration\ (1)/activeLaunchTarget=org.eclipse.launchbar.core.launchTargetType.local\:Local
