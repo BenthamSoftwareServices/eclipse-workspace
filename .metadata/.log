@@ -8861,3 +8861,1687 @@ IDF_DEACTIVATE_FILE_PATH=C:\Users\Steven\AppData\Local\Temp\tmph5r6d3i1idf_7832
 
 !ENTRY com.espressif.idf.core 1 0 2024-05-22 18:53:25.308
 !MESSAGE flash command: C:\Espressif\python_env\idf5.2_py3.12_env\Scripts\python.exe C:\ESP-IDF\esp-idf-v5.2.1\tools\idf.py -p COM30 flash
+
+!ENTRY org.eclipse.equinox.p2.operations 4 0 2024-05-22 19:14:00.481
+!MESSAGE Operation details
+!SUBENTRY 1 org.eclipse.equinox.p2.director 4 10054 2024-05-22 19:14:00.481
+!MESSAGE Cannot complete the install because of a conflicting dependency.
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 0 2024-05-22 19:14:00.481
+!MESSAGE Software being installed: Embedded C/C++ Core 6.0.0.202012080907 (org.eclipse.embedcdt.feature.group 6.0.0.202012080907)
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 0 2024-05-22 19:14:00.481
+!MESSAGE Software currently installed: Embedded C/C++ Core 6.5.0.202401111557 (org.eclipse.embedcdt.feature.group 6.5.0.202401111557)
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 1 2024-05-22 19:14:00.481
+!MESSAGE Only one of the following can be installed at once: 
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2024-05-22 19:14:00.481
+!MESSAGE Embedded C/C++ Core 6.0.0.202012080907 (org.eclipse.embedcdt.feature.jar 6.0.0.202012080907)
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2024-05-22 19:14:00.481
+!MESSAGE Embedded C/C++ Core 6.5.0.202401111557 (org.eclipse.embedcdt.feature.jar 6.5.0.202401111557)
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 1 2024-05-22 19:14:00.481
+!MESSAGE Cannot satisfy dependency:
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2024-05-22 19:14:00.481
+!MESSAGE From: Embedded C/C++ Core 6.0.0.202012080907 (org.eclipse.embedcdt.feature.group 6.0.0.202012080907)
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2024-05-22 19:14:00.481
+!MESSAGE To: org.eclipse.equinox.p2.iu; org.eclipse.embedcdt.feature.jar [6.0.0.202012080907,6.0.0.202012080907], filter=(org.eclipse.update.install.features=true)
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 1 2024-05-22 19:14:00.481
+!MESSAGE Cannot satisfy dependency:
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2024-05-22 19:14:00.481
+!MESSAGE From: Embedded C/C++ Core 6.5.0.202401111557 (org.eclipse.embedcdt.feature.group 6.5.0.202401111557)
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2024-05-22 19:14:00.481
+!MESSAGE To: org.eclipse.equinox.p2.iu; org.eclipse.embedcdt.feature.jar [6.5.0.202401111557,6.5.0.202401111557], filter=(org.eclipse.update.install.features=true)
+
+!ENTRY org.eclipse.equinox.p2.operations 4 0 2024-05-22 19:14:00.544
+!MESSAGE Operation details
+!SUBENTRY 1 org.eclipse.equinox.p2.director 4 10054 2024-05-22 19:14:00.544
+!MESSAGE Cannot complete the install because of a conflicting dependency.
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 0 2024-05-22 19:14:00.544
+!MESSAGE Software being installed: Embedded C/C++ Core 6.0.0.202012080907 (org.eclipse.embedcdt.feature.group 6.0.0.202012080907)
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 0 2024-05-22 19:14:00.544
+!MESSAGE Software currently installed: Embedded C/C++ Core 6.5.0.202401111557 (org.eclipse.embedcdt.feature.group 6.5.0.202401111557)
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 1 2024-05-22 19:14:00.544
+!MESSAGE Only one of the following can be installed at once: 
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2024-05-22 19:14:00.544
+!MESSAGE Embedded C/C++ Core 6.0.0.202012080907 (org.eclipse.embedcdt.feature.jar 6.0.0.202012080907)
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2024-05-22 19:14:00.544
+!MESSAGE Embedded C/C++ Core 6.5.0.202401111557 (org.eclipse.embedcdt.feature.jar 6.5.0.202401111557)
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 1 2024-05-22 19:14:00.544
+!MESSAGE Cannot satisfy dependency:
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2024-05-22 19:14:00.545
+!MESSAGE From: Embedded C/C++ Core 6.0.0.202012080907 (org.eclipse.embedcdt.feature.group 6.0.0.202012080907)
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2024-05-22 19:14:00.545
+!MESSAGE To: org.eclipse.equinox.p2.iu; org.eclipse.embedcdt.feature.jar [6.0.0.202012080907,6.0.0.202012080907], filter=(org.eclipse.update.install.features=true)
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 1 2024-05-22 19:14:00.545
+!MESSAGE Cannot satisfy dependency:
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2024-05-22 19:14:00.545
+!MESSAGE From: Embedded C/C++ Core 6.5.0.202401111557 (org.eclipse.embedcdt.feature.group 6.5.0.202401111557)
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2024-05-22 19:14:00.545
+!MESSAGE To: org.eclipse.equinox.p2.iu; org.eclipse.embedcdt.feature.jar [6.5.0.202401111557,6.5.0.202401111557], filter=(org.eclipse.update.install.features=true)
+
+!ENTRY org.eclipse.equinox.p2.operations 4 0 2024-05-22 19:14:01.337
+!MESSAGE Operation details
+!SUBENTRY 1 org.eclipse.equinox.p2.director 4 10054 2024-05-22 19:14:01.337
+!MESSAGE Cannot complete the install because of a conflicting dependency.
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 0 2024-05-22 19:14:01.337
+!MESSAGE Software being installed: Embedded C/C++ Core 6.0.0.202012080907 (org.eclipse.embedcdt.feature.group 6.0.0.202012080907)
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 0 2024-05-22 19:14:01.337
+!MESSAGE Software currently installed: Embedded C/C++ Core 6.5.0.202401111557 (org.eclipse.embedcdt.feature.group 6.5.0.202401111557)
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 1 2024-05-22 19:14:01.337
+!MESSAGE Only one of the following can be installed at once: 
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2024-05-22 19:14:01.337
+!MESSAGE Embedded C/C++ Core 6.0.0.202012080907 (org.eclipse.embedcdt.feature.jar 6.0.0.202012080907)
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2024-05-22 19:14:01.337
+!MESSAGE Embedded C/C++ Core 6.5.0.202401111557 (org.eclipse.embedcdt.feature.jar 6.5.0.202401111557)
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 1 2024-05-22 19:14:01.337
+!MESSAGE Cannot satisfy dependency:
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2024-05-22 19:14:01.337
+!MESSAGE From: Embedded C/C++ Core 6.0.0.202012080907 (org.eclipse.embedcdt.feature.group 6.0.0.202012080907)
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2024-05-22 19:14:01.337
+!MESSAGE To: org.eclipse.equinox.p2.iu; org.eclipse.embedcdt.feature.jar [6.0.0.202012080907,6.0.0.202012080907], filter=(org.eclipse.update.install.features=true)
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 1 2024-05-22 19:14:01.337
+!MESSAGE Cannot satisfy dependency:
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2024-05-22 19:14:01.337
+!MESSAGE From: Embedded C/C++ Core 6.5.0.202401111557 (org.eclipse.embedcdt.feature.group 6.5.0.202401111557)
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2024-05-22 19:14:01.337
+!MESSAGE To: org.eclipse.equinox.p2.iu; org.eclipse.embedcdt.feature.jar [6.5.0.202401111557,6.5.0.202401111557], filter=(org.eclipse.update.install.features=true)
+
+!ENTRY org.eclipse.equinox.p2.operations 4 0 2024-05-22 19:14:01.339
+!MESSAGE Operation details
+!SUBENTRY 1 org.eclipse.equinox.p2.director 4 10054 2024-05-22 19:14:01.340
+!MESSAGE Cannot complete the install because of a conflicting dependency.
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 0 2024-05-22 19:14:01.340
+!MESSAGE Software being installed: Embedded C/C++ Core 6.0.0.202012080907 (org.eclipse.embedcdt.feature.group 6.0.0.202012080907)
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 0 2024-05-22 19:14:01.340
+!MESSAGE Software currently installed: Embedded C/C++ Core 6.5.0.202401111557 (org.eclipse.embedcdt.feature.group 6.5.0.202401111557)
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 1 2024-05-22 19:14:01.340
+!MESSAGE Only one of the following can be installed at once: 
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2024-05-22 19:14:01.340
+!MESSAGE Embedded C/C++ Core 6.0.0.202012080907 (org.eclipse.embedcdt.feature.jar 6.0.0.202012080907)
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2024-05-22 19:14:01.340
+!MESSAGE Embedded C/C++ Core 6.5.0.202401111557 (org.eclipse.embedcdt.feature.jar 6.5.0.202401111557)
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 1 2024-05-22 19:14:01.340
+!MESSAGE Cannot satisfy dependency:
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2024-05-22 19:14:01.340
+!MESSAGE From: Embedded C/C++ Core 6.0.0.202012080907 (org.eclipse.embedcdt.feature.group 6.0.0.202012080907)
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2024-05-22 19:14:01.340
+!MESSAGE To: org.eclipse.equinox.p2.iu; org.eclipse.embedcdt.feature.jar [6.0.0.202012080907,6.0.0.202012080907], filter=(org.eclipse.update.install.features=true)
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 1 2024-05-22 19:14:01.340
+!MESSAGE Cannot satisfy dependency:
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2024-05-22 19:14:01.340
+!MESSAGE From: Embedded C/C++ Core 6.5.0.202401111557 (org.eclipse.embedcdt.feature.group 6.5.0.202401111557)
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2024-05-22 19:14:01.340
+!MESSAGE To: org.eclipse.equinox.p2.iu; org.eclipse.embedcdt.feature.jar [6.5.0.202401111557,6.5.0.202401111557], filter=(org.eclipse.update.install.features=true)
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-22 19:28:15.180
+!MESSAGE C:\ESP-IDF\esp-idf-v5.2.1\tools\idf.py -p COM30 flash
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-22 19:28:15.185
+!MESSAGE flash command: C:\Espressif\python_env\idf5.2_py3.12_env\Scripts\python.exe C:\ESP-IDF\esp-idf-v5.2.1\tools\idf.py -p COM30 flash
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-22 19:28:17.182
+!MESSAGE clangd: C:\Espressif\tools\esp-clang\16.0.1-fe4f10a809\esp-clang\bin\clangd.exe
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-22 19:28:17.195
+!MESSAGE toolchain path: C:\Espressif\tools\xtensa-esp-elf\esp-13.2.0_20230928\xtensa-esp-elf\bin\xtensa-esp32-elf-gcc.exe
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-22 19:28:58.500
+!MESSAGE Project Name:: Blink_LED_and_Print
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-22 19:28:58.500
+!MESSAGE Project:: P/Blink_LED_and_Print
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-22 19:29:16.024
+!MESSAGE Resolving for variable: BUILD_DIR
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-22 19:29:16.836
+!MESSAGE Port 3333 is available
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-22 19:29:16.861
+!MESSAGE Port 3333 is available
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-22 19:29:16.864
+!MESSAGE Port 4444 is available
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-22 19:29:16.867
+!MESSAGE Port 6666 is available
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-22 19:29:16.915
+!MESSAGE Open On-Chip Debugger v0.12.0-esp32-20230921 (2023-09-21-13:40)
+Licensed under GNU GPL v2
+For bug reports, read
+	http://openocd.org/doc/doxygen/bugs.html
+
+!ENTRY org.eclipse.embedcdt.managedbuild.cross.riscv.core 4 1 2024-05-22 19:29:16.919
+!MESSAGE C:\Espressif\tools\openocd-esp32\v0.12.0-esp32-20230921\openocd-esp32\bin/openocd.exe -c gdb_port 3333 -c telnet_port 4444 -c tcl_port 6666 -s C:\Espressif\tools\openocd-esp32\v0.12.0-esp32-20230921\openocd-esp32\bin/share/openocd/scripts -f board/esp32-wrover-kit-1.8v.cfg -c program_esp_bins E:/Users/Steven/Documents/GitHub/eclipse-workspace/Blink_LED_and_Print/build flasher_args.json verify reset -c echo "Started by GNU MCU Eclipse"
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-22 19:29:21.540
+!MESSAGE Port 3333 is not available, trying next port: 3334
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-22 19:29:21.544
+!MESSAGE Port 3334 is available
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-22 19:29:21.548
+!MESSAGE Port 4444 is not available, trying next port: 4445
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-22 19:29:21.551
+!MESSAGE Port 4445 is available
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-22 19:29:21.554
+!MESSAGE Port 6666 is not available, trying next port: 6667
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-22 19:29:21.557
+!MESSAGE Port 6667 is available
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-22 19:29:21.601
+!MESSAGE Open On-Chip Debugger v0.12.0-esp32-20230921 (2023-09-21-13:40)
+Licensed under GNU GPL v2
+For bug reports, read
+	http://openocd.org/doc/doxygen/bugs.html
+
+!ENTRY org.eclipse.embedcdt.managedbuild.cross.riscv.core 4 1 2024-05-22 19:29:21.625
+!MESSAGE C:\Espressif\tools\xtensa-esp-elf-gdb\12.1_20231023\xtensa-esp-elf-gdb\bin\xtensa-esp32-elf-gdb.exe --interpreter=mi2 --nx
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-22 19:29:23.245
+!MESSAGE Project Name:: Blink_LED_and_Print
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-22 19:29:23.246
+!MESSAGE Project:: P/Blink_LED_and_Print
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-22 19:29:25.172
+!MESSAGE Project:: P/Blink_LED_and_Print
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-22 19:29:25.175
+!MESSAGE Initialization Commands::mon reset halt
+flushregs
+set remote hardware-watchpoint-limit 2
+
+!ENTRY org.eclipse.embedcdt.debug.gdbjtag.core 4 0 2024-05-22 19:29:48.017
+!MESSAGE Debug session 'Blink_LED_and_Print Configuration' already started. Terminate the first one before restarting.
+!SESSION 2024-05-22 19:30:14.807 -----------------------------------------------
+eclipse.buildId=4.31.0.20240307-1200
+java.version=22.0.1
+java.vendor=Eclipse Adoptium
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_GB
+Framework arguments:  -product org.eclipse.epp.package.embedcpp.product
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -product org.eclipse.epp.package.embedcpp.product
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-22 19:30:25.694
+!MESSAGE clangd: C:\Espressif\tools\esp-clang\16.0.1-fe4f10a809\esp-clang\bin\clangd.exe
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-22 19:30:25.697
+!MESSAGE clangd: C:\Espressif\tools\esp-clang\16.0.1-fe4f10a809\esp-clang\bin\clangd.exe
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-22 19:30:25.698
+!MESSAGE toolchain path: null
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-22 19:30:25.706
+!MESSAGE toolchain path: null
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-22 19:30:27.963
+!MESSAGE Initializing toolchain...
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-22 19:30:27.964
+!MESSAGE idf_tools.py path: C:\ESP-IDF\esp-idf-v5.2.1/tools/idf_tools.py
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-22 19:30:27.965
+!MESSAGE [C:\Espressif\python_env\idf5.2_py3.12_env\Scripts\python.exe, C:\ESP-IDF\esp-idf-v5.2.1/tools/idf_tools.py, export, --format=key-value]
+
+!ENTRY org.eclipse.launchbar.core 2 0 2024-05-22 19:30:28.764
+!MESSAGE Enablement expression is missing for descriptor type com.espressif.idf.debug.gdbjtag.openocd.descriptorType
+
+!ENTRY org.eclipse.launchbar.core 2 0 2024-05-22 19:30:28.765
+!MESSAGE Enablement expression is missing for config provider for com.espressif.idf.debug.gdbjtag.openocd.descriptorType
+
+!ENTRY org.eclipse.launchbar.core 2 0 2024-05-22 19:30:28.767
+!MESSAGE Enablement expression is missing for config provider for com.espressif.idf.launch.serial.core.idf.descriptorType
+
+!ENTRY org.eclipse.launchbar.core 2 0 2024-05-22 19:30:28.768
+!MESSAGE Enablement expression is missing for descriptor type com.espressif.idf.launch.serial.core.idf.descriptorType
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-22 19:30:29.338
+!MESSAGE idf_tools.py export output: OPENOCD_SCRIPTS=C:\Espressif\tools\openocd-esp32\v0.12.0-esp32-20230921\openocd-esp32\share\openocd\scripts
+IDF_CCACHE_ENABLE=1
+ESP_ROM_ELF_DIR=C:\Espressif\tools\esp-rom-elfs\20230320\
+IDF_PYTHON_ENV_PATH=C:\Espressif\python_env\idf5.2_py3.12_env
+ESP_IDF_VERSION=5.2
+PATH=C:\Espressif\tools\xtensa-esp-elf-gdb\12.1_20231023\xtensa-esp-elf-gdb\bin;C:\Espressif\tools\riscv32-esp-elf-gdb\12.1_20231023\riscv32-esp-elf-gdb\bin;C:\Espressif\tools\xtensa-esp-elf\esp-13.2.0_20230928\xtensa-esp-elf\bin;C:\Espressif\tools\esp-clang\16.0.1-fe4f10a809\esp-clang\bin;C:\Espressif\tools\riscv32-esp-elf\esp-13.2.0_20230928\riscv32-esp-elf\bin;C:\Espressif\tools\esp32ulp-elf\2.35_20220830\esp32ulp-elf\bin;C:\Espressif\tools\cmake\3.24.0\bin;C:\Espressif\tools\openocd-esp32\v0.12.0-esp32-20230921\openocd-esp32\bin;C:\Espressif\tools\ninja\1.11.1\;C:\Espressif\tools\idf-exe\1.0.3\;C:\Espressif\tools\ccache\4.8\ccache-4.8-windows-x86_64;C:\Espressif\tools\dfu-util\0.11\dfu-util-0.11-win64;C:\Espressif\tools\qemu-xtensa\esp_develop_8.1.3_20231206\qemu\bin;C:\Espressif\tools\qemu-riscv32\esp_develop_8.1.3_20231206\qemu\bin;C:\Espressif\python_env\idf5.2_py3.12_env\Scripts;C:\ESP-IDF\esp-idf-v5.2.1\tools;%PATH%
+IDF_DEACTIVATE_FILE_PATH=C:\Users\Steven\AppData\Local\Temp\tmpzbab9msuidf_4328
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-22 19:30:29.340
+!MESSAGE PATH: C:\Espressif\tools\xtensa-esp-elf-gdb\12.1_20231023\xtensa-esp-elf-gdb\bin;C:\Espressif\tools\riscv32-esp-elf-gdb\12.1_20231023\riscv32-esp-elf-gdb\bin;C:\Espressif\tools\xtensa-esp-elf\esp-13.2.0_20230928\xtensa-esp-elf\bin;C:\Espressif\tools\esp-clang\16.0.1-fe4f10a809\esp-clang\bin;C:\Espressif\tools\riscv32-esp-elf\esp-13.2.0_20230928\riscv32-esp-elf\bin;C:\Espressif\tools\esp32ulp-elf\2.35_20220830\esp32ulp-elf\bin;C:\Espressif\tools\cmake\3.24.0\bin;C:\Espressif\tools\openocd-esp32\v0.12.0-esp32-20230921\openocd-esp32\bin;C:\Espressif\tools\ninja\1.11.1\;C:\Espressif\tools\idf-exe\1.0.3\;C:\Espressif\tools\ccache\4.8\ccache-4.8-windows-x86_64;C:\Espressif\tools\dfu-util\0.11\dfu-util-0.11-win64;C:\Espressif\tools\qemu-xtensa\esp_develop_8.1.3_20231206\qemu\bin;C:\Espressif\tools\qemu-riscv32\esp_develop_8.1.3_20231206\qemu\bin;C:\Espressif\python_env\idf5.2_py3.12_env\Scripts;C:\ESP-IDF\esp-idf-v5.2.1\tools;%PATH%
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-22 19:30:29.340
+!MESSAGE [C:\Espressif\tools\xtensa-esp-elf-gdb\12.1_20231023\xtensa-esp-elf-gdb\bin;C:\Espressif\tools\riscv32-esp-elf-gdb\12.1_20231023\riscv32-esp-elf-gdb\bin;C:\Espressif\tools\xtensa-esp-elf\esp-13.2.0_20230928\xtensa-esp-elf\bin;C:\Espressif\tools\esp-clang\16.0.1-fe4f10a809\esp-clang\bin;C:\Espressif\tools\riscv32-esp-elf\esp-13.2.0_20230928\riscv32-esp-elf\bin;C:\Espressif\tools\esp32ulp-elf\2.35_20220830\esp32ulp-elf\bin;C:\Espressif\tools\cmake\3.24.0\bin;C:\Espressif\tools\openocd-esp32\v0.12.0-esp32-20230921\openocd-esp32\bin;C:\Espressif\tools\ninja\1.11.1\;C:\Espressif\tools\idf-exe\1.0.3\;C:\Espressif\tools\ccache\4.8\ccache-4.8-windows-x86_64;C:\Espressif\tools\dfu-util\0.11\dfu-util-0.11-win64;C:\Espressif\tools\qemu-xtensa\esp_develop_8.1.3_20231206\qemu\bin;C:\Espressif\tools\qemu-riscv32\esp_develop_8.1.3_20231206\qemu\bin;C:\Espressif\python_env\idf5.2_py3.12_env\Scripts;C:\ESP-IDF\esp-idf-v5.2.1\tools;%PATH%]
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-22 19:30:31.743
+!MESSAGE Eclipse Install location::file:/C:/Users/Steven/embedcpp-2024-03/eclipse/
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-22 19:30:31.745
+!MESSAGE esp-idf.json file doesnt exist at this location: /C:/Users/Steven/embedcpp-2024-03/eclipse/
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-22 19:30:52.259
+!MESSAGE ESP-IDF v5.2.1-dirty
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-22 19:30:53.342
+!MESSAGE Resolving for variable: BUILD_DIR
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-22 19:30:53.845
+!MESSAGE Port 3333 is available
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-22 19:30:53.866
+!MESSAGE Port 3333 is available
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-22 19:30:53.868
+!MESSAGE Port 4444 is available
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-22 19:30:53.871
+!MESSAGE Port 6666 is available
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-22 19:30:53.913
+!MESSAGE Open On-Chip Debugger v0.12.0-esp32-20230921 (2023-09-21-13:40)
+Licensed under GNU GPL v2
+For bug reports, read
+	http://openocd.org/doc/doxygen/bugs.html
+
+!ENTRY org.eclipse.embedcdt.debug.gdbjtag.core 4 1 2024-05-22 19:30:53.917
+!MESSAGE C:\Espressif\tools\openocd-esp32\v0.12.0-esp32-20230921\openocd-esp32\bin/openocd.exe -c gdb_port 3333 -c telnet_port 4444 -c tcl_port 6666 -s C:\Espressif\tools\openocd-esp32\v0.12.0-esp32-20230921\openocd-esp32\bin/share/openocd/scripts -f board/esp32-wrover-kit-1.8v.cfg -c program_esp_bins E:/Users/Steven/Documents/GitHub/eclipse-workspace/Blink_LED_and_Print/build flasher_args.json verify reset -c echo "Started by GNU MCU Eclipse"
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-22 19:30:58.511
+!MESSAGE Port 3333 is not available, trying next port: 3334
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-22 19:30:58.515
+!MESSAGE Port 3334 is available
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-22 19:30:58.518
+!MESSAGE Port 4444 is not available, trying next port: 4445
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-22 19:30:58.522
+!MESSAGE Port 4445 is available
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-22 19:30:58.525
+!MESSAGE Port 6666 is not available, trying next port: 6667
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-22 19:30:58.528
+!MESSAGE Port 6667 is available
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-22 19:30:58.574
+!MESSAGE Open On-Chip Debugger v0.12.0-esp32-20230921 (2023-09-21-13:40)
+Licensed under GNU GPL v2
+For bug reports, read
+	http://openocd.org/doc/doxygen/bugs.html
+
+!ENTRY org.eclipse.embedcdt.debug.gdbjtag.core 4 1 2024-05-22 19:30:58.597
+!MESSAGE C:\Espressif\tools\xtensa-esp-elf-gdb\12.1_20231023\xtensa-esp-elf-gdb\bin\xtensa-esp32-elf-gdb.exe --interpreter=mi2 --nx
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-22 19:31:02.004
+!MESSAGE Project:: P/Blink_LED_and_Print
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-22 19:31:02.013
+!MESSAGE Initialization Commands::mon reset halt
+flushregs
+set remote hardware-watchpoint-limit 2
+!SESSION 2024-05-22 19:34:02.075 -----------------------------------------------
+eclipse.buildId=4.31.0.20240307-1200
+java.version=22.0.1
+java.vendor=Eclipse Adoptium
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_GB
+Framework arguments:  -product org.eclipse.epp.package.embedcpp.product
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -product org.eclipse.epp.package.embedcpp.product
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-22 19:34:10.797
+!MESSAGE clangd: C:\Espressif\tools\esp-clang\16.0.1-fe4f10a809\esp-clang\bin\clangd.exe
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-22 19:34:10.801
+!MESSAGE clangd: C:\Espressif\tools\esp-clang\16.0.1-fe4f10a809\esp-clang\bin\clangd.exe
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-22 19:34:10.802
+!MESSAGE toolchain path: null
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-22 19:34:10.809
+!MESSAGE toolchain path: null
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-22 19:34:12.802
+!MESSAGE Initializing toolchain...
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-22 19:34:12.803
+!MESSAGE idf_tools.py path: C:\ESP-IDF\esp-idf-v5.2.1/tools/idf_tools.py
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-22 19:34:12.804
+!MESSAGE [C:\Espressif\python_env\idf5.2_py3.12_env\Scripts\python.exe, C:\ESP-IDF\esp-idf-v5.2.1/tools/idf_tools.py, export, --format=key-value]
+
+!ENTRY org.eclipse.launchbar.core 2 0 2024-05-22 19:34:12.876
+!MESSAGE Enablement expression is missing for descriptor type com.espressif.idf.debug.gdbjtag.openocd.descriptorType
+
+!ENTRY org.eclipse.launchbar.core 2 0 2024-05-22 19:34:12.877
+!MESSAGE Enablement expression is missing for config provider for com.espressif.idf.debug.gdbjtag.openocd.descriptorType
+
+!ENTRY org.eclipse.launchbar.core 2 0 2024-05-22 19:34:12.878
+!MESSAGE Enablement expression is missing for config provider for com.espressif.idf.launch.serial.core.idf.descriptorType
+
+!ENTRY org.eclipse.launchbar.core 2 0 2024-05-22 19:34:12.879
+!MESSAGE Enablement expression is missing for descriptor type com.espressif.idf.launch.serial.core.idf.descriptorType
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-22 19:34:14.197
+!MESSAGE idf_tools.py export output: OPENOCD_SCRIPTS=C:\Espressif\tools\openocd-esp32\v0.12.0-esp32-20230921\openocd-esp32\share\openocd\scripts
+IDF_CCACHE_ENABLE=1
+ESP_ROM_ELF_DIR=C:\Espressif\tools\esp-rom-elfs\20230320\
+IDF_PYTHON_ENV_PATH=C:\Espressif\python_env\idf5.2_py3.12_env
+ESP_IDF_VERSION=5.2
+PATH=C:\Espressif\tools\xtensa-esp-elf-gdb\12.1_20231023\xtensa-esp-elf-gdb\bin;C:\Espressif\tools\riscv32-esp-elf-gdb\12.1_20231023\riscv32-esp-elf-gdb\bin;C:\Espressif\tools\xtensa-esp-elf\esp-13.2.0_20230928\xtensa-esp-elf\bin;C:\Espressif\tools\esp-clang\16.0.1-fe4f10a809\esp-clang\bin;C:\Espressif\tools\riscv32-esp-elf\esp-13.2.0_20230928\riscv32-esp-elf\bin;C:\Espressif\tools\esp32ulp-elf\2.35_20220830\esp32ulp-elf\bin;C:\Espressif\tools\cmake\3.24.0\bin;C:\Espressif\tools\openocd-esp32\v0.12.0-esp32-20230921\openocd-esp32\bin;C:\Espressif\tools\ninja\1.11.1\;C:\Espressif\tools\idf-exe\1.0.3\;C:\Espressif\tools\ccache\4.8\ccache-4.8-windows-x86_64;C:\Espressif\tools\dfu-util\0.11\dfu-util-0.11-win64;C:\Espressif\tools\qemu-xtensa\esp_develop_8.1.3_20231206\qemu\bin;C:\Espressif\tools\qemu-riscv32\esp_develop_8.1.3_20231206\qemu\bin;C:\Espressif\python_env\idf5.2_py3.12_env\Scripts;C:\ESP-IDF\esp-idf-v5.2.1\tools;%PATH%
+IDF_DEACTIVATE_FILE_PATH=C:\Users\Steven\AppData\Local\Temp\tmpp9j2pjjridf_11036
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-22 19:34:14.198
+!MESSAGE PATH: C:\Espressif\tools\xtensa-esp-elf-gdb\12.1_20231023\xtensa-esp-elf-gdb\bin;C:\Espressif\tools\riscv32-esp-elf-gdb\12.1_20231023\riscv32-esp-elf-gdb\bin;C:\Espressif\tools\xtensa-esp-elf\esp-13.2.0_20230928\xtensa-esp-elf\bin;C:\Espressif\tools\esp-clang\16.0.1-fe4f10a809\esp-clang\bin;C:\Espressif\tools\riscv32-esp-elf\esp-13.2.0_20230928\riscv32-esp-elf\bin;C:\Espressif\tools\esp32ulp-elf\2.35_20220830\esp32ulp-elf\bin;C:\Espressif\tools\cmake\3.24.0\bin;C:\Espressif\tools\openocd-esp32\v0.12.0-esp32-20230921\openocd-esp32\bin;C:\Espressif\tools\ninja\1.11.1\;C:\Espressif\tools\idf-exe\1.0.3\;C:\Espressif\tools\ccache\4.8\ccache-4.8-windows-x86_64;C:\Espressif\tools\dfu-util\0.11\dfu-util-0.11-win64;C:\Espressif\tools\qemu-xtensa\esp_develop_8.1.3_20231206\qemu\bin;C:\Espressif\tools\qemu-riscv32\esp_develop_8.1.3_20231206\qemu\bin;C:\Espressif\python_env\idf5.2_py3.12_env\Scripts;C:\ESP-IDF\esp-idf-v5.2.1\tools;%PATH%
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-22 19:34:14.199
+!MESSAGE [C:\Espressif\tools\xtensa-esp-elf-gdb\12.1_20231023\xtensa-esp-elf-gdb\bin;C:\Espressif\tools\riscv32-esp-elf-gdb\12.1_20231023\riscv32-esp-elf-gdb\bin;C:\Espressif\tools\xtensa-esp-elf\esp-13.2.0_20230928\xtensa-esp-elf\bin;C:\Espressif\tools\esp-clang\16.0.1-fe4f10a809\esp-clang\bin;C:\Espressif\tools\riscv32-esp-elf\esp-13.2.0_20230928\riscv32-esp-elf\bin;C:\Espressif\tools\esp32ulp-elf\2.35_20220830\esp32ulp-elf\bin;C:\Espressif\tools\cmake\3.24.0\bin;C:\Espressif\tools\openocd-esp32\v0.12.0-esp32-20230921\openocd-esp32\bin;C:\Espressif\tools\ninja\1.11.1\;C:\Espressif\tools\idf-exe\1.0.3\;C:\Espressif\tools\ccache\4.8\ccache-4.8-windows-x86_64;C:\Espressif\tools\dfu-util\0.11\dfu-util-0.11-win64;C:\Espressif\tools\qemu-xtensa\esp_develop_8.1.3_20231206\qemu\bin;C:\Espressif\tools\qemu-riscv32\esp_develop_8.1.3_20231206\qemu\bin;C:\Espressif\python_env\idf5.2_py3.12_env\Scripts;C:\ESP-IDF\esp-idf-v5.2.1\tools;%PATH%]
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-22 19:34:15.092
+!MESSAGE Eclipse Install location::file:/C:/Users/Steven/embedcpp-2024-03/eclipse/
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-22 19:34:15.094
+!MESSAGE esp-idf.json file doesnt exist at this location: /C:/Users/Steven/embedcpp-2024-03/eclipse/
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-22 19:34:27.386
+!MESSAGE ESP-IDF v5.2.1-dirty
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-22 19:34:28.504
+!MESSAGE Resolving for variable: BUILD_DIR
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-22 19:34:28.947
+!MESSAGE Port 3333 is available
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-22 19:34:28.971
+!MESSAGE Port 3333 is available
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-22 19:34:28.974
+!MESSAGE Port 4444 is available
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-22 19:34:28.977
+!MESSAGE Port 6666 is available
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-22 19:34:29.019
+!MESSAGE Open On-Chip Debugger v0.12.0-esp32-20230921 (2023-09-21-13:40)
+Licensed under GNU GPL v2
+For bug reports, read
+	http://openocd.org/doc/doxygen/bugs.html
+
+!ENTRY org.eclipse.embedcdt.debug.gdbjtag.core 4 1 2024-05-22 19:34:29.023
+!MESSAGE C:\Espressif\tools\openocd-esp32\v0.12.0-esp32-20230921\openocd-esp32\bin/openocd.exe -c gdb_port 3333 -c telnet_port 4444 -c tcl_port 6666 -s C:\Espressif\tools\openocd-esp32\v0.12.0-esp32-20230921\openocd-esp32\bin/share/openocd/scripts -f board/esp32-wrover-kit-1.8v.cfg -c program_esp_bins E:/Users/Steven/Documents/GitHub/eclipse-workspace/Blink_LED_and_Print/build flasher_args.json verify reset -c echo "Started by GNU MCU Eclipse"
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-22 19:34:33.864
+!MESSAGE Port 3333 is not available, trying next port: 3334
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-22 19:34:33.868
+!MESSAGE Port 3334 is available
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-22 19:34:33.872
+!MESSAGE Port 4444 is not available, trying next port: 4445
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-22 19:34:33.876
+!MESSAGE Port 4445 is available
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-22 19:34:33.879
+!MESSAGE Port 6666 is not available, trying next port: 6667
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-22 19:34:33.883
+!MESSAGE Port 6667 is available
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-22 19:34:34.001
+!MESSAGE Open On-Chip Debugger v0.12.0-esp32-20230921 (2023-09-21-13:40)
+Licensed under GNU GPL v2
+For bug reports, read
+	http://openocd.org/doc/doxygen/bugs.html
+
+!ENTRY org.eclipse.embedcdt.debug.gdbjtag.core 4 1 2024-05-22 19:34:34.028
+!MESSAGE C:\Espressif\tools\xtensa-esp-elf-gdb\12.1_20231023\xtensa-esp-elf-gdb\bin\xtensa-esp32-elf-gdb.exe --interpreter=mi2 --nx
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-22 19:34:38.351
+!MESSAGE Project:: P/Blink_LED_and_Print
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-22 19:34:38.358
+!MESSAGE Initialization Commands::mon reset halt
+flushregs
+set remote hardware-watchpoint-limit 2
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-22 19:36:27.871
+!MESSAGE Port 3333 is available
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-22 19:36:27.881
+!MESSAGE Port 3333 is available
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-22 19:36:27.884
+!MESSAGE Port 4444 is available
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-22 19:36:27.887
+!MESSAGE Port 6666 is available
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-22 19:36:27.922
+!MESSAGE Open On-Chip Debugger v0.12.0-esp32-20230921 (2023-09-21-13:40)
+Licensed under GNU GPL v2
+For bug reports, read
+	http://openocd.org/doc/doxygen/bugs.html
+
+!ENTRY org.eclipse.embedcdt.debug.gdbjtag.core 4 1 2024-05-22 19:36:27.924
+!MESSAGE C:\Espressif\tools\openocd-esp32\v0.12.0-esp32-20230921\openocd-esp32\bin/openocd.exe -c gdb_port 3333 -c telnet_port 4444 -c tcl_port 6666 -s C:\Espressif\tools\openocd-esp32\v0.12.0-esp32-20230921\openocd-esp32\bin/share/openocd/scripts -f board/esp32-wrover-kit-1.8v.cfg -c program_esp_bins E:/Users/Steven/Documents/GitHub/eclipse-workspace/Blink_LED_and_Print/build flasher_args.json verify reset -c echo "Started by GNU MCU Eclipse"
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-22 19:36:32.518
+!MESSAGE Port 3333 is not available, trying next port: 3334
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-22 19:36:32.521
+!MESSAGE Port 3334 is available
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-22 19:36:32.523
+!MESSAGE Port 4444 is not available, trying next port: 4445
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-22 19:36:32.526
+!MESSAGE Port 4445 is available
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-22 19:36:32.530
+!MESSAGE Port 6666 is not available, trying next port: 6667
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-22 19:36:32.533
+!MESSAGE Port 6667 is available
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-22 19:36:32.586
+!MESSAGE Open On-Chip Debugger v0.12.0-esp32-20230921 (2023-09-21-13:40)
+Licensed under GNU GPL v2
+For bug reports, read
+	http://openocd.org/doc/doxygen/bugs.html
+
+!ENTRY org.eclipse.embedcdt.debug.gdbjtag.core 4 1 2024-05-22 19:36:32.602
+!MESSAGE C:\Espressif\tools\xtensa-esp-elf-gdb\12.1_20231023\xtensa-esp-elf-gdb\bin\xtensa-esp32-elf-gdb.exe --interpreter=mi2 --nx
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-22 19:36:35.817
+!MESSAGE Project:: P/Blink_LED_and_Print
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-22 19:36:35.819
+!MESSAGE Initialization Commands::mon reset halt
+flushregs
+set remote hardware-watchpoint-limit 2
+!SESSION 2024-05-23 09:57:26.585 -----------------------------------------------
+eclipse.buildId=4.31.0.20240307-1200
+java.version=22.0.1
+java.vendor=Eclipse Adoptium
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_GB
+Framework arguments:  -product org.eclipse.epp.package.embedcpp.product
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -product org.eclipse.epp.package.embedcpp.product
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-23 09:57:37.368
+!MESSAGE clangd: C:\Espressif\tools\esp-clang\16.0.1-fe4f10a809\esp-clang\bin\clangd.exe
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-23 09:57:37.398
+!MESSAGE clangd: C:\Espressif\tools\esp-clang\16.0.1-fe4f10a809\esp-clang\bin\clangd.exe
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-23 09:57:37.399
+!MESSAGE toolchain path: null
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-23 09:57:37.404
+!MESSAGE toolchain path: null
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-23 09:57:39.773
+!MESSAGE Initializing toolchain...
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-23 09:57:39.773
+!MESSAGE idf_tools.py path: C:\ESP-IDF\esp-idf-v5.2.1/tools/idf_tools.py
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-23 09:57:39.775
+!MESSAGE [C:\Espressif\python_env\idf5.2_py3.12_env\Scripts\python.exe, C:\ESP-IDF\esp-idf-v5.2.1/tools/idf_tools.py, export, --format=key-value]
+
+!ENTRY org.eclipse.launchbar.core 2 0 2024-05-23 09:57:40.488
+!MESSAGE Enablement expression is missing for descriptor type com.espressif.idf.debug.gdbjtag.openocd.descriptorType
+
+!ENTRY org.eclipse.launchbar.core 2 0 2024-05-23 09:57:40.489
+!MESSAGE Enablement expression is missing for config provider for com.espressif.idf.debug.gdbjtag.openocd.descriptorType
+
+!ENTRY org.eclipse.launchbar.core 2 0 2024-05-23 09:57:40.490
+!MESSAGE Enablement expression is missing for config provider for com.espressif.idf.launch.serial.core.idf.descriptorType
+
+!ENTRY org.eclipse.launchbar.core 2 0 2024-05-23 09:57:40.491
+!MESSAGE Enablement expression is missing for descriptor type com.espressif.idf.launch.serial.core.idf.descriptorType
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-23 09:57:42.224
+!MESSAGE Eclipse Install location::file:/C:/Users/Steven/embedcpp-2024-03/eclipse/
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-23 09:57:42.225
+!MESSAGE esp-idf.json file doesnt exist at this location: /C:/Users/Steven/embedcpp-2024-03/eclipse/
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-23 09:57:56.373
+!MESSAGE idf_tools.py export output: OPENOCD_SCRIPTS=C:\Espressif\tools\openocd-esp32\v0.12.0-esp32-20230921\openocd-esp32\share\openocd\scripts
+IDF_CCACHE_ENABLE=1
+ESP_ROM_ELF_DIR=C:\Espressif\tools\esp-rom-elfs\20230320\
+IDF_PYTHON_ENV_PATH=C:\Espressif\python_env\idf5.2_py3.12_env
+ESP_IDF_VERSION=5.2
+PATH=C:\Espressif\tools\xtensa-esp-elf-gdb\12.1_20231023\xtensa-esp-elf-gdb\bin;C:\Espressif\tools\riscv32-esp-elf-gdb\12.1_20231023\riscv32-esp-elf-gdb\bin;C:\Espressif\tools\xtensa-esp-elf\esp-13.2.0_20230928\xtensa-esp-elf\bin;C:\Espressif\tools\esp-clang\16.0.1-fe4f10a809\esp-clang\bin;C:\Espressif\tools\riscv32-esp-elf\esp-13.2.0_20230928\riscv32-esp-elf\bin;C:\Espressif\tools\esp32ulp-elf\2.35_20220830\esp32ulp-elf\bin;C:\Espressif\tools\cmake\3.24.0\bin;C:\Espressif\tools\openocd-esp32\v0.12.0-esp32-20230921\openocd-esp32\bin;C:\Espressif\tools\ninja\1.11.1\;C:\Espressif\tools\idf-exe\1.0.3\;C:\Espressif\tools\ccache\4.8\ccache-4.8-windows-x86_64;C:\Espressif\tools\dfu-util\0.11\dfu-util-0.11-win64;C:\Espressif\tools\qemu-xtensa\esp_develop_8.1.3_20231206\qemu\bin;C:\Espressif\tools\qemu-riscv32\esp_develop_8.1.3_20231206\qemu\bin;C:\Espressif\python_env\idf5.2_py3.12_env\Scripts;C:\ESP-IDF\esp-idf-v5.2.1\tools;%PATH%
+IDF_DEACTIVATE_FILE_PATH=C:\Users\Steven\AppData\Local\Temp\tmp28n827q4idf_23656
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-23 09:57:56.403
+!MESSAGE PATH: C:\Espressif\tools\xtensa-esp-elf-gdb\12.1_20231023\xtensa-esp-elf-gdb\bin;C:\Espressif\tools\riscv32-esp-elf-gdb\12.1_20231023\riscv32-esp-elf-gdb\bin;C:\Espressif\tools\xtensa-esp-elf\esp-13.2.0_20230928\xtensa-esp-elf\bin;C:\Espressif\tools\esp-clang\16.0.1-fe4f10a809\esp-clang\bin;C:\Espressif\tools\riscv32-esp-elf\esp-13.2.0_20230928\riscv32-esp-elf\bin;C:\Espressif\tools\esp32ulp-elf\2.35_20220830\esp32ulp-elf\bin;C:\Espressif\tools\cmake\3.24.0\bin;C:\Espressif\tools\openocd-esp32\v0.12.0-esp32-20230921\openocd-esp32\bin;C:\Espressif\tools\ninja\1.11.1\;C:\Espressif\tools\idf-exe\1.0.3\;C:\Espressif\tools\ccache\4.8\ccache-4.8-windows-x86_64;C:\Espressif\tools\dfu-util\0.11\dfu-util-0.11-win64;C:\Espressif\tools\qemu-xtensa\esp_develop_8.1.3_20231206\qemu\bin;C:\Espressif\tools\qemu-riscv32\esp_develop_8.1.3_20231206\qemu\bin;C:\Espressif\python_env\idf5.2_py3.12_env\Scripts;C:\ESP-IDF\esp-idf-v5.2.1\tools;%PATH%
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-23 09:57:56.404
+!MESSAGE [C:\Espressif\tools\xtensa-esp-elf-gdb\12.1_20231023\xtensa-esp-elf-gdb\bin;C:\Espressif\tools\riscv32-esp-elf-gdb\12.1_20231023\riscv32-esp-elf-gdb\bin;C:\Espressif\tools\xtensa-esp-elf\esp-13.2.0_20230928\xtensa-esp-elf\bin;C:\Espressif\tools\esp-clang\16.0.1-fe4f10a809\esp-clang\bin;C:\Espressif\tools\riscv32-esp-elf\esp-13.2.0_20230928\riscv32-esp-elf\bin;C:\Espressif\tools\esp32ulp-elf\2.35_20220830\esp32ulp-elf\bin;C:\Espressif\tools\cmake\3.24.0\bin;C:\Espressif\tools\openocd-esp32\v0.12.0-esp32-20230921\openocd-esp32\bin;C:\Espressif\tools\ninja\1.11.1\;C:\Espressif\tools\idf-exe\1.0.3\;C:\Espressif\tools\ccache\4.8\ccache-4.8-windows-x86_64;C:\Espressif\tools\dfu-util\0.11\dfu-util-0.11-win64;C:\Espressif\tools\qemu-xtensa\esp_develop_8.1.3_20231206\qemu\bin;C:\Espressif\tools\qemu-riscv32\esp_develop_8.1.3_20231206\qemu\bin;C:\Espressif\python_env\idf5.2_py3.12_env\Scripts;C:\ESP-IDF\esp-idf-v5.2.1\tools;%PATH%]
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-23 09:57:56.566
+!MESSAGE Project Name:: Blink_LED_and_Print
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-23 09:57:56.566
+!MESSAGE Project:: P/Blink_LED_and_Print
+
+!ENTRY org.eclipse.help.base 2 0 2024-05-23 09:58:26.840
+!MESSAGE Unable to consume Lucene index from bundle 'org.eclipse.cdt.doc.user_11.5.0.202312062348 [117]'. The index should be rebuilt with Lucene 9.10.0
+
+!ENTRY org.eclipse.help.base 2 0 2024-05-23 09:58:26.844
+!MESSAGE Unable to consume Lucene index from bundle 'org.eclipse.tracecompass.gdbtrace.doc.user_9.3.0.202403060022 [580]'. The index should be rebuilt with Lucene 9.10.0
+
+!ENTRY org.eclipse.help.base 2 0 2024-05-23 09:58:26.848
+!MESSAGE Unable to consume Lucene index from bundle 'org.eclipse.tracecompass.analysis.profiling.doc.user_9.3.0.202403060022 [569]'. The index should be rebuilt with Lucene 9.10.0
+
+!ENTRY org.eclipse.help.base 2 0 2024-05-23 09:58:26.852
+!MESSAGE Unable to consume Lucene index from bundle 'org.eclipse.cdt.autotools.docs_11.5.0.202312062348 [87]'. The index should be rebuilt with Lucene 9.10.0
+
+!ENTRY org.eclipse.help.base 2 0 2024-05-23 09:58:26.856
+!MESSAGE Unable to consume Lucene index from bundle 'org.eclipse.tracecompass.doc.user_9.3.0.202403060022 [578]'. The index should be rebuilt with Lucene 9.10.0
+
+!ENTRY org.eclipse.help.base 2 0 2024-05-23 09:58:26.859
+!MESSAGE Unable to consume Lucene index from bundle 'org.eclipse.cdt.meson.docs_11.5.0.202312062348 [140]'. The index should be rebuilt with Lucene 9.10.0
+
+!ENTRY org.eclipse.help.base 2 0 2024-05-23 09:58:26.864
+!MESSAGE Unable to consume Lucene index from bundle 'org.eclipse.cdt.debug.application.doc_11.5.0.202312062348 [105]'. The index should be rebuilt with Lucene 9.10.0
+
+!ENTRY org.eclipse.help.base 2 0 2024-05-23 09:58:26.867
+!MESSAGE Unable to consume Lucene index from bundle 'org.eclipse.tracecompass.doc.dev_9.3.0.202403060022 [577]'. The index should be rebuilt with Lucene 9.10.0
+
+!ENTRY org.eclipse.equinox.p2.repository 2 0 2024-05-23 10:00:46.860
+!MESSAGE Unexpected interrupt while waiting on ECF browse request
+!STACK 0
+java.lang.InterruptedException
+	at java.base/java.lang.Object.wait0(Native Method)
+	at java.base/java.lang.Object.wait(Object.java:375)
+	at org.eclipse.core.internal.jobs.Semaphore.acquire(Semaphore.java:45)
+	at org.eclipse.core.internal.jobs.JobManager.join(JobManager.java:994)
+	at org.eclipse.core.internal.jobs.InternalJob.join(InternalJob.java:355)
+	at org.eclipse.core.runtime.jobs.Job.join(Job.java:531)
+	at org.eclipse.equinox.internal.p2.transport.ecf.FileInfoReader.waitOnSelf(FileInfoReader.java:73)
+	at org.eclipse.equinox.internal.p2.transport.ecf.FileInfoReader.getRemoteFiles(FileInfoReader.java:109)
+	at org.eclipse.equinox.internal.p2.transport.ecf.FileInfoReader.getRemoteFile(FileInfoReader.java:124)
+	at org.eclipse.equinox.internal.p2.transport.ecf.FileInfoReader.getLastModified(FileInfoReader.java:129)
+	at org.eclipse.equinox.internal.p2.transport.ecf.RepositoryTransport.getLastModified(RepositoryTransport.java:275)
+	at org.eclipse.oomph.p2.internal.core.CachingTransport.delegateGetLastModified(CachingTransport.java:427)
+	at org.eclipse.oomph.p2.internal.core.CachingTransport.getLastModified(CachingTransport.java:364)
+	at org.eclipse.equinox.internal.p2.repository.CacheManager.createCacheFromFile(CacheManager.java:109)
+	at org.eclipse.equinox.internal.p2.metadata.repository.XZedSimpleMetadataRepositoryFactory.getLocalFile(XZedSimpleMetadataRepositoryFactory.java:60)
+	at org.eclipse.equinox.internal.p2.metadata.repository.XZedSimpleMetadataRepositoryFactory.load(XZedSimpleMetadataRepositoryFactory.java:80)
+	at org.eclipse.equinox.internal.p2.metadata.repository.MetadataRepositoryManager.factoryLoad(MetadataRepositoryManager.java:63)
+	at org.eclipse.equinox.internal.p2.repository.helpers.AbstractRepositoryManager.loadRepository(AbstractRepositoryManager.java:791)
+	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:580)
+	at org.eclipse.oomph.util.ReflectUtil.invokeMethod(ReflectUtil.java:119)
+	at org.eclipse.oomph.p2.internal.core.CachingRepositoryManager.loadRepository(CachingRepositoryManager.java:448)
+	at org.eclipse.oomph.p2.internal.core.CachingRepositoryManager.loadRepository(CachingRepositoryManager.java:231)
+	at org.eclipse.oomph.p2.internal.core.CachingRepositoryManager$Metadata.loadRepository(CachingRepositoryManager.java:520)
+	at org.eclipse.equinox.internal.p2.metadata.repository.MetadataRepositoryManager.loadRepository(MetadataRepositoryManager.java:110)
+	at org.eclipse.equinox.internal.p2.metadata.repository.MetadataRepositoryManager.loadRepository(MetadataRepositoryManager.java:105)
+	at org.eclipse.epp.internal.mpc.ui.catalog.MarketplaceCatalog.lambda$12(MarketplaceCatalog.java:342)
+	at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:572)
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:317)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1144)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642)
+	at java.base/java.lang.Thread.run(Thread.java:1570)
+
+!ENTRY org.eclipse.equinox.p2.repository 2 0 2024-05-23 10:00:46.861
+!MESSAGE Unexpected interrupt while waiting on ECF browse request
+!STACK 0
+java.lang.InterruptedException
+	at org.eclipse.core.internal.jobs.Semaphore.acquire(Semaphore.java:35)
+	at org.eclipse.core.internal.jobs.JobManager.join(JobManager.java:994)
+	at org.eclipse.core.internal.jobs.InternalJob.join(InternalJob.java:355)
+	at org.eclipse.core.runtime.jobs.Job.join(Job.java:531)
+	at org.eclipse.equinox.internal.p2.transport.ecf.FileInfoReader.waitOnSelf(FileInfoReader.java:73)
+	at org.eclipse.equinox.internal.p2.transport.ecf.FileInfoReader.getRemoteFiles(FileInfoReader.java:109)
+	at org.eclipse.equinox.internal.p2.transport.ecf.FileInfoReader.getRemoteFile(FileInfoReader.java:124)
+	at org.eclipse.equinox.internal.p2.transport.ecf.FileInfoReader.getLastModified(FileInfoReader.java:129)
+	at org.eclipse.equinox.internal.p2.transport.ecf.RepositoryTransport.getLastModified(RepositoryTransport.java:275)
+	at org.eclipse.oomph.p2.internal.core.CachingTransport.delegateGetLastModified(CachingTransport.java:427)
+	at org.eclipse.oomph.p2.internal.core.CachingTransport.getLastModified(CachingTransport.java:364)
+	at org.eclipse.equinox.internal.p2.repository.CacheManager.createCacheFromFile(CacheManager.java:109)
+	at org.eclipse.equinox.internal.p2.metadata.repository.XZedSimpleMetadataRepositoryFactory.getLocalFile(XZedSimpleMetadataRepositoryFactory.java:60)
+	at org.eclipse.equinox.internal.p2.metadata.repository.XZedSimpleMetadataRepositoryFactory.load(XZedSimpleMetadataRepositoryFactory.java:80)
+	at org.eclipse.equinox.internal.p2.metadata.repository.MetadataRepositoryManager.factoryLoad(MetadataRepositoryManager.java:63)
+	at org.eclipse.equinox.internal.p2.repository.helpers.AbstractRepositoryManager.loadRepository(AbstractRepositoryManager.java:791)
+	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:580)
+	at org.eclipse.oomph.util.ReflectUtil.invokeMethod(ReflectUtil.java:119)
+	at org.eclipse.oomph.p2.internal.core.CachingRepositoryManager.loadRepository(CachingRepositoryManager.java:448)
+	at org.eclipse.oomph.p2.internal.core.CachingRepositoryManager.loadRepository(CachingRepositoryManager.java:231)
+	at org.eclipse.oomph.p2.internal.core.CachingRepositoryManager$Metadata.loadRepository(CachingRepositoryManager.java:520)
+	at org.eclipse.equinox.internal.p2.metadata.repository.MetadataRepositoryManager.loadRepository(MetadataRepositoryManager.java:110)
+	at org.eclipse.equinox.internal.p2.metadata.repository.MetadataRepositoryManager.loadRepository(MetadataRepositoryManager.java:105)
+	at org.eclipse.epp.internal.mpc.ui.catalog.MarketplaceCatalog.lambda$12(MarketplaceCatalog.java:342)
+	at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:572)
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:317)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1144)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642)
+	at java.base/java.lang.Thread.run(Thread.java:1570)
+
+!ENTRY org.eclipse.ui 4 4 2024-05-23 10:41:57.769
+!MESSAGE Conflicting handlers for org.eclipse.ui.navigate.backwardHistory: {ActionHandler(org.eclipse.ui.internal.NavigationHistoryAction@6f438afa)} vs {ActionHandler(org.eclipse.ui.internal.dialogs.PreferencePageHistory$1@686a7922)} in: PartImpl (org.eclipse.ui.navigator.ProjectExplorer) Context
+!STACK 0
+java.lang.IllegalStateException: Conflicting handlers: {[ActionHandler(org.eclipse.ui.internal.NavigationHistoryAction@6f438afa),  for 'org.eclipse.ui.navigate.backwardHistory',  in TrimmedWindowImpl (IDEWindow) Context, activeWhen=AndExpression [children=[ActiveShellExpression(Shell {eclipse-workspace - Blink_LED_and_Print/main/main.c - Eclipse IDE} [layout=org.eclipse.e4.ui.workbench.renderers.swt.TrimmedPartLayout@60c416d7]), WorkbenchWindowExpression(org.eclipse.ui.internal.WorkbenchWindow@254d8ef6)]], active=true, sourcePriority=17408, participating=true]} vs {[ActionHandler(org.eclipse.ui.internal.dialogs.PreferencePageHistory$1@686a7922),  for 'org.eclipse.ui.navigate.backwardHistory',  in WorkbenchContext, activeWhen=ActiveShellExpression(Shell {Preferences} [layout=GridLayout {numColumns=5 verticalSpacing=5}]), active=true, sourcePriority=17408, participating=true]} in: PartImpl (org.eclipse.ui.navigator.ProjectExplorer) Context
+	at org.eclipse.ui.internal.handlers.LegacyHandlerService$HandlerSelectionFunction.compute(LegacyHandlerService.java:143)
+	at org.eclipse.e4.core.internal.contexts.ValueComputation.get(ValueComputation.java:70)
+	at org.eclipse.e4.core.internal.contexts.EclipseContext.internalGet(EclipseContext.java:243)
+	at org.eclipse.e4.core.internal.contexts.EclipseContext.get(EclipseContext.java:230)
+	at org.eclipse.e4.core.commands.internal.HandlerServiceImpl.lookUpHandler(HandlerServiceImpl.java:99)
+	at org.eclipse.ui.internal.handlers.E4HandlerProxy.handlerChanged(E4HandlerProxy.java:115)
+	at org.eclipse.core.commands.AbstractHandler.fireHandlerChanged(AbstractHandler.java:77)
+	at org.eclipse.jface.commands.ActionHandler.lambda$0(ActionHandler.java:84)
+	at org.eclipse.jface.action.AbstractAction.firePropertyChange(AbstractAction.java:52)
+	at org.eclipse.jface.action.AbstractAction.firePropertyChange(AbstractAction.java:75)
+	at org.eclipse.jface.action.Action.setToolTipText(Action.java:635)
+	at org.eclipse.ui.internal.dialogs.PreferencePageHistory$1.isEnabled(PreferencePageHistory.java:227)
+	at org.eclipse.jface.action.ActionContributionItem.updateToolItem(ActionContributionItem.java:805)
+	at org.eclipse.jface.action.ActionContributionItem.update(ActionContributionItem.java:740)
+	at org.eclipse.ui.internal.dialogs.PreferencePageHistory.updateHistoryControls(PreferencePageHistory.java:136)
+	at org.eclipse.ui.internal.dialogs.PreferencePageHistory.addHistoryEntry(PreferencePageHistory.java:112)
+	at org.eclipse.ui.internal.dialogs.FilteredPreferenceDialog.showPage(FilteredPreferenceDialog.java:620)
+	at org.eclipse.jface.preference.PreferenceDialog$5.lambda$0(PreferenceDialog.java:660)
+	at org.eclipse.swt.custom.BusyIndicator.showWhile(BusyIndicator.java:67)
+	at org.eclipse.jface.preference.PreferenceDialog$5.selectionChanged(PreferenceDialog.java:657)
+	at org.eclipse.jface.viewers.StructuredViewer$3.run(StructuredViewer.java:820)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:47)
+	at org.eclipse.jface.util.SafeRunnable.run(SafeRunnable.java:174)
+	at org.eclipse.jface.viewers.StructuredViewer.firePostSelectionChanged(StructuredViewer.java:817)
+	at org.eclipse.jface.viewers.ColumnViewer.firePostSelectionChanged(ColumnViewer.java:1065)
+	at org.eclipse.jface.viewers.StructuredViewer.handlePostSelect(StructuredViewer.java:1185)
+	at org.eclipse.swt.events.SelectionListener$1.widgetSelected(SelectionListener.java:84)
+	at org.eclipse.jface.util.OpenStrategy.firePostSelectionEvent(OpenStrategy.java:283)
+	at org.eclipse.jface.util.OpenStrategy$1.lambda$1(OpenStrategy.java:437)
+	at org.eclipse.swt.widgets.RunnableLock.run(RunnableLock.java:40)
+	at org.eclipse.swt.widgets.Synchronizer.runAsyncMessages(Synchronizer.java:132)
+	at org.eclipse.swt.widgets.Display.runAsyncMessages(Display.java:4047)
+	at org.eclipse.swt.widgets.Display.readAndDispatch(Display.java:3663)
+	at org.eclipse.jface.window.Window.runEventLoop(Window.java:823)
+	at org.eclipse.jface.window.Window.open(Window.java:799)
+	at org.eclipse.ui.internal.OpenPreferencesAction.run(OpenPreferencesAction.java:64)
+	at org.eclipse.jface.action.Action.runWithEvent(Action.java:474)
+	at org.eclipse.jface.action.ActionContributionItem.handleWidgetSelection(ActionContributionItem.java:581)
+	at org.eclipse.jface.action.ActionContributionItem.lambda$4(ActionContributionItem.java:415)
+	at org.eclipse.swt.widgets.EventTable.sendEvent(EventTable.java:89)
+	at org.eclipse.swt.widgets.Display.sendEvent(Display.java:4274)
+	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1066)
+	at org.eclipse.swt.widgets.Display.runDeferredEvents(Display.java:4072)
+	at org.eclipse.swt.widgets.Display.readAndDispatch(Display.java:3660)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine$5.run(PartRenderingEngine.java:1151)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:339)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.run(PartRenderingEngine.java:1042)
+	at org.eclipse.e4.ui.internal.workbench.E4Workbench.createAndRunUI(E4Workbench.java:152)
+	at org.eclipse.ui.internal.Workbench.lambda$3(Workbench.java:639)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:339)
+	at org.eclipse.ui.internal.Workbench.createAndRunWorkbench(Workbench.java:546)
+	at org.eclipse.ui.PlatformUI.createAndRunWorkbench(PlatformUI.java:173)
+	at org.eclipse.ui.internal.ide.application.IDEApplication.start(IDEApplication.java:152)
+	at org.eclipse.equinox.internal.app.EclipseAppHandle.run(EclipseAppHandle.java:208)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.runApplication(EclipseAppLauncher.java:143)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.start(EclipseAppLauncher.java:109)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:439)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:271)
+	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:580)
+	at org.eclipse.equinox.launcher.Main.invokeFramework(Main.java:651)
+	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:588)
+	at org.eclipse.equinox.launcher.Main.run(Main.java:1459)
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-23 11:27:52.134
+!MESSAGE ESP-IDF v5.2.1-dirty
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-23 11:27:57.184
+!MESSAGE Resolving for variable: BUILD_DIR
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-23 11:27:58.063
+!MESSAGE Port 3333 is available
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-23 11:27:58.094
+!MESSAGE Port 3333 is available
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-23 11:27:58.097
+!MESSAGE Port 4444 is available
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-23 11:27:58.100
+!MESSAGE Port 6666 is available
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-23 11:27:58.153
+!MESSAGE Open On-Chip Debugger v0.12.0-esp32-20230921 (2023-09-21-13:40)
+Licensed under GNU GPL v2
+For bug reports, read
+	http://openocd.org/doc/doxygen/bugs.html
+
+!ENTRY org.eclipse.embedcdt.debug.gdbjtag.core 4 1 2024-05-23 11:27:58.156
+!MESSAGE C:\Espressif\tools\openocd-esp32\v0.12.0-esp32-20230921\openocd-esp32\bin/openocd.exe -c gdb_port 3333 -c telnet_port 4444 -c tcl_port 6666 -s C:\Espressif\tools\openocd-esp32\v0.12.0-esp32-20230921\openocd-esp32\bin/share/openocd/scripts -f board/esp32-wrover-kit-1.8v.cfg -c program_esp_bins E:/Users/Steven/Documents/GitHub/eclipse-workspace/Blink_LED_and_Print/build flasher_args.json verify reset -c echo "Started by GNU MCU Eclipse"
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-23 11:28:02.920
+!MESSAGE Port 3333 is not available, trying next port: 3334
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-23 11:28:02.923
+!MESSAGE Port 3334 is available
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-23 11:28:02.927
+!MESSAGE Port 4444 is not available, trying next port: 4445
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-23 11:28:02.931
+!MESSAGE Port 4445 is available
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-23 11:28:02.934
+!MESSAGE Port 6666 is not available, trying next port: 6667
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-23 11:28:02.937
+!MESSAGE Port 6667 is available
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-23 11:28:02.977
+!MESSAGE Open On-Chip Debugger v0.12.0-esp32-20230921 (2023-09-21-13:40)
+Licensed under GNU GPL v2
+For bug reports, read
+	http://openocd.org/doc/doxygen/bugs.html
+
+!ENTRY org.eclipse.embedcdt.debug.gdbjtag.core 4 1 2024-05-23 11:28:03.005
+!MESSAGE C:\Espressif\tools\xtensa-esp-elf-gdb\12.1_20231023\xtensa-esp-elf-gdb\bin\xtensa-esp32-elf-gdb.exe --interpreter=mi2 --nx
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-23 11:28:06.691
+!MESSAGE Project:: P/Blink_LED_and_Print
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-23 11:28:06.724
+!MESSAGE Initialization Commands::mon reset halt
+flushregs
+set remote hardware-watchpoint-limit 2
+
+!ENTRY org.eclipse.e4.ui.workbench.swt 4 2 2024-05-23 11:28:16.187
+!MESSAGE Problems occurred when invoking code from plug-in: "org.eclipse.e4.ui.workbench.swt".
+!STACK 0
+org.eclipse.swt.SWTException: Invalid thread access
+	at org.eclipse.swt.SWT.error(SWT.java:4922)
+	at org.eclipse.swt.SWT.error(SWT.java:4837)
+	at org.eclipse.swt.SWT.error(SWT.java:4808)
+	at org.eclipse.swt.widgets.Widget.error(Widget.java:450)
+	at org.eclipse.swt.widgets.Widget.checkWidget(Widget.java:370)
+	at org.eclipse.swt.widgets.Widget.checkParent(Widget.java:301)
+	at org.eclipse.swt.widgets.Widget.<init>(Widget.java:165)
+	at org.eclipse.swt.widgets.Control.<init>(Control.java:114)
+	at org.eclipse.swt.widgets.Scrollable.<init>(Scrollable.java:85)
+	at org.eclipse.swt.widgets.Composite.<init>(Composite.java:99)
+	at org.eclipse.e4.ui.workbench.renderers.swt.ContributedPartRenderer$1.<init>(ContributedPartRenderer.java:86)
+	at org.eclipse.e4.ui.workbench.renderers.swt.ContributedPartRenderer.createWidget(ContributedPartRenderer.java:86)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.createWidget(PartRenderingEngine.java:991)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.safeCreateGui(PartRenderingEngine.java:658)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.safeCreateGui(PartRenderingEngine.java:762)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine$2.run(PartRenderingEngine.java:727)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:47)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.createGui(PartRenderingEngine.java:711)
+	at org.eclipse.e4.ui.internal.workbench.PartServiceImpl.createElement(PartServiceImpl.java:1314)
+	at org.eclipse.e4.ui.internal.workbench.PartServiceImpl.showPart(PartServiceImpl.java:1275)
+	at org.eclipse.ui.internal.WorkbenchPartReference.getPart(WorkbenchPartReference.java:395)
+	at org.eclipse.ui.internal.EditorReference.getEditor(EditorReference.java:283)
+	at org.eclipse.cdt.lsp.LspUtils.isFileOpenedInLspEditor(LspUtils.java:96)
+	at org.eclipse.cdt.lsp.editor.CEditorAssociationOverride.isEnabledFor(CEditorAssociationOverride.java:97)
+	at org.eclipse.cdt.lsp.editor.CEditorAssociationOverride.getEditorDescriptor(CEditorAssociationOverride.java:144)
+	at org.eclipse.cdt.lsp.editor.CEditorAssociationOverride.overrideDefaultEditor(CEditorAssociationOverride.java:71)
+	at org.eclipse.ui.ide.IDE.overrideDefaultEditorAssociation(IDE.java:847)
+	at org.eclipse.ui.ide.IDE.getEditorDescriptorForFileStore(IDE.java:821)
+	at org.eclipse.cdt.dsf.debug.ui.sourcelookup.DsfSourceDisplayAdapter$LookupJob.getEditorIdForFileStore(DsfSourceDisplayAdapter.java:284)
+	at org.eclipse.cdt.dsf.debug.ui.sourcelookup.DsfSourceDisplayAdapter$LookupJob.performLookup(DsfSourceDisplayAdapter.java:252)
+	at org.eclipse.cdt.dsf.debug.ui.sourcelookup.DsfSourceDisplayAdapter$LookupJob.run(DsfSourceDisplayAdapter.java:203)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+
+!ENTRY org.eclipse.e4.ui.workbench 4 0 2024-05-23 11:28:16.189
+!MESSAGE Exception occurred while rendering: org.eclipse.e4.ui.compatibility.editor=org.eclipse.e4.ui.model.application.ui.basic.impl.PartImpl@351e89fc (tags: [Editor, removeOnHide, org.eclipse.cdt.ui.editor.CEditor], contributorURI: null) (widget: null, renderer: org.eclipse.e4.ui.workbench.renderers.swt.ContributedPartRenderer@19305a7c, toBeRendered: true, onTop: false, visible: true, containerData: null, accessibilityPhrase: null) (contributionURI: bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityEditor, object: null, context: PartImpl (org.eclipse.e4.ui.compatibility.editor)  removeOnHide org.eclipse.cdt.ui.editor.CEditor (cpu.c) Context, variables: null, label: cpu.c, iconURI: platform:/plugin/org.eclipse.cdt.ui/icons/obj16/c_file_obj.gif, tooltip: null, dirty: false, closeable: true, description: null)
+!STACK 0
+org.eclipse.swt.SWTException: Invalid thread access
+	at org.eclipse.swt.SWT.error(SWT.java:4922)
+	at org.eclipse.swt.SWT.error(SWT.java:4837)
+	at org.eclipse.swt.SWT.error(SWT.java:4808)
+	at org.eclipse.swt.widgets.Widget.error(Widget.java:450)
+	at org.eclipse.swt.widgets.Widget.checkWidget(Widget.java:370)
+	at org.eclipse.swt.widgets.Widget.checkParent(Widget.java:301)
+	at org.eclipse.swt.widgets.Widget.<init>(Widget.java:165)
+	at org.eclipse.swt.widgets.Control.<init>(Control.java:114)
+	at org.eclipse.swt.widgets.Scrollable.<init>(Scrollable.java:85)
+	at org.eclipse.swt.widgets.Composite.<init>(Composite.java:99)
+	at org.eclipse.e4.ui.workbench.renderers.swt.ContributedPartRenderer$1.<init>(ContributedPartRenderer.java:86)
+	at org.eclipse.e4.ui.workbench.renderers.swt.ContributedPartRenderer.createWidget(ContributedPartRenderer.java:86)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.createWidget(PartRenderingEngine.java:991)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.safeCreateGui(PartRenderingEngine.java:658)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.safeCreateGui(PartRenderingEngine.java:762)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine$2.run(PartRenderingEngine.java:727)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:47)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.createGui(PartRenderingEngine.java:711)
+	at org.eclipse.e4.ui.internal.workbench.PartServiceImpl.createElement(PartServiceImpl.java:1314)
+	at org.eclipse.e4.ui.internal.workbench.PartServiceImpl.showPart(PartServiceImpl.java:1275)
+	at org.eclipse.ui.internal.WorkbenchPartReference.getPart(WorkbenchPartReference.java:395)
+	at org.eclipse.ui.internal.EditorReference.getEditor(EditorReference.java:283)
+	at org.eclipse.cdt.lsp.LspUtils.isFileOpenedInLspEditor(LspUtils.java:96)
+	at org.eclipse.cdt.lsp.editor.CEditorAssociationOverride.isEnabledFor(CEditorAssociationOverride.java:97)
+	at org.eclipse.cdt.lsp.editor.CEditorAssociationOverride.getEditorDescriptor(CEditorAssociationOverride.java:144)
+	at org.eclipse.cdt.lsp.editor.CEditorAssociationOverride.overrideDefaultEditor(CEditorAssociationOverride.java:71)
+	at org.eclipse.ui.ide.IDE.overrideDefaultEditorAssociation(IDE.java:847)
+	at org.eclipse.ui.ide.IDE.getEditorDescriptorForFileStore(IDE.java:821)
+	at org.eclipse.cdt.dsf.debug.ui.sourcelookup.DsfSourceDisplayAdapter$LookupJob.getEditorIdForFileStore(DsfSourceDisplayAdapter.java:284)
+	at org.eclipse.cdt.dsf.debug.ui.sourcelookup.DsfSourceDisplayAdapter$LookupJob.performLookup(DsfSourceDisplayAdapter.java:252)
+	at org.eclipse.cdt.dsf.debug.ui.sourcelookup.DsfSourceDisplayAdapter$LookupJob.run(DsfSourceDisplayAdapter.java:203)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+
+!ENTRY org.eclipse.core.jobs 4 2 2024-05-23 11:28:16.196
+!MESSAGE An internal error occurred during: "DSF Source Lookup".
+!STACK 0
+java.lang.NullPointerException: Cannot invoke "org.eclipse.ui.IEditorPart.getEditorSite()" because the return value of "org.eclipse.ui.IEditorReference.getEditor(boolean)" is null
+	at org.eclipse.cdt.lsp.LspUtils.isFileOpenedInLspEditor(LspUtils.java:96)
+	at org.eclipse.cdt.lsp.editor.CEditorAssociationOverride.isEnabledFor(CEditorAssociationOverride.java:97)
+	at org.eclipse.cdt.lsp.editor.CEditorAssociationOverride.getEditorDescriptor(CEditorAssociationOverride.java:144)
+	at org.eclipse.cdt.lsp.editor.CEditorAssociationOverride.overrideDefaultEditor(CEditorAssociationOverride.java:71)
+	at org.eclipse.ui.ide.IDE.overrideDefaultEditorAssociation(IDE.java:847)
+	at org.eclipse.ui.ide.IDE.getEditorDescriptorForFileStore(IDE.java:821)
+	at org.eclipse.cdt.dsf.debug.ui.sourcelookup.DsfSourceDisplayAdapter$LookupJob.getEditorIdForFileStore(DsfSourceDisplayAdapter.java:284)
+	at org.eclipse.cdt.dsf.debug.ui.sourcelookup.DsfSourceDisplayAdapter$LookupJob.performLookup(DsfSourceDisplayAdapter.java:252)
+	at org.eclipse.cdt.dsf.debug.ui.sourcelookup.DsfSourceDisplayAdapter$LookupJob.run(DsfSourceDisplayAdapter.java:203)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+
+!ENTRY org.eclipse.e4.ui.workbench.swt 4 2 2024-05-23 11:28:16.624
+!MESSAGE Problems occurred when invoking code from plug-in: "org.eclipse.e4.ui.workbench.swt".
+!STACK 0
+org.eclipse.swt.SWTException: Invalid thread access
+	at org.eclipse.swt.SWT.error(SWT.java:4922)
+	at org.eclipse.swt.SWT.error(SWT.java:4837)
+	at org.eclipse.swt.SWT.error(SWT.java:4808)
+	at org.eclipse.swt.widgets.Widget.error(Widget.java:450)
+	at org.eclipse.swt.widgets.Widget.checkWidget(Widget.java:370)
+	at org.eclipse.swt.widgets.Widget.checkParent(Widget.java:301)
+	at org.eclipse.swt.widgets.Widget.<init>(Widget.java:165)
+	at org.eclipse.swt.widgets.Control.<init>(Control.java:114)
+	at org.eclipse.swt.widgets.Scrollable.<init>(Scrollable.java:85)
+	at org.eclipse.swt.widgets.Composite.<init>(Composite.java:99)
+	at org.eclipse.e4.ui.workbench.renderers.swt.ContributedPartRenderer$1.<init>(ContributedPartRenderer.java:86)
+	at org.eclipse.e4.ui.workbench.renderers.swt.ContributedPartRenderer.createWidget(ContributedPartRenderer.java:86)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.createWidget(PartRenderingEngine.java:991)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.safeCreateGui(PartRenderingEngine.java:658)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.safeCreateGui(PartRenderingEngine.java:762)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine$2.run(PartRenderingEngine.java:727)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:47)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.createGui(PartRenderingEngine.java:711)
+	at org.eclipse.e4.ui.internal.workbench.PartServiceImpl.createElement(PartServiceImpl.java:1314)
+	at org.eclipse.e4.ui.internal.workbench.PartServiceImpl.showPart(PartServiceImpl.java:1275)
+	at org.eclipse.ui.internal.WorkbenchPartReference.getPart(WorkbenchPartReference.java:395)
+	at org.eclipse.ui.internal.EditorReference.getEditor(EditorReference.java:283)
+	at org.eclipse.cdt.lsp.LspUtils.isFileOpenedInLspEditor(LspUtils.java:96)
+	at org.eclipse.cdt.lsp.editor.CEditorAssociationOverride.isEnabledFor(CEditorAssociationOverride.java:97)
+	at org.eclipse.cdt.lsp.editor.CEditorAssociationOverride.getEditorDescriptor(CEditorAssociationOverride.java:144)
+	at org.eclipse.cdt.lsp.editor.CEditorAssociationOverride.overrideDefaultEditor(CEditorAssociationOverride.java:71)
+	at org.eclipse.ui.ide.IDE.overrideDefaultEditorAssociation(IDE.java:847)
+	at org.eclipse.ui.ide.IDE.getEditorDescriptorForFileStore(IDE.java:821)
+	at org.eclipse.cdt.dsf.debug.ui.sourcelookup.DsfSourceDisplayAdapter$LookupJob.getEditorIdForFileStore(DsfSourceDisplayAdapter.java:284)
+	at org.eclipse.cdt.dsf.debug.ui.sourcelookup.DsfSourceDisplayAdapter$LookupJob.performLookup(DsfSourceDisplayAdapter.java:252)
+	at org.eclipse.cdt.dsf.debug.ui.sourcelookup.DsfSourceDisplayAdapter$LookupJob.run(DsfSourceDisplayAdapter.java:203)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+
+!ENTRY org.eclipse.e4.ui.workbench 4 0 2024-05-23 11:28:16.625
+!MESSAGE Exception occurred while rendering: org.eclipse.e4.ui.compatibility.editor=org.eclipse.e4.ui.model.application.ui.basic.impl.PartImpl@351e89fc (tags: [Editor, removeOnHide, org.eclipse.cdt.ui.editor.CEditor], contributorURI: null) (widget: null, renderer: org.eclipse.e4.ui.workbench.renderers.swt.ContributedPartRenderer@19305a7c, toBeRendered: true, onTop: false, visible: true, containerData: null, accessibilityPhrase: null) (contributionURI: bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityEditor, object: null, context: PartImpl (org.eclipse.e4.ui.compatibility.editor)  removeOnHide org.eclipse.cdt.ui.editor.CEditor (cpu.c) Context, variables: [], label: cpu.c, iconURI: platform:/plugin/org.eclipse.cdt.ui/icons/obj16/c_file_obj.gif, tooltip: null, dirty: false, closeable: true, description: null)
+!STACK 0
+org.eclipse.swt.SWTException: Invalid thread access
+	at org.eclipse.swt.SWT.error(SWT.java:4922)
+	at org.eclipse.swt.SWT.error(SWT.java:4837)
+	at org.eclipse.swt.SWT.error(SWT.java:4808)
+	at org.eclipse.swt.widgets.Widget.error(Widget.java:450)
+	at org.eclipse.swt.widgets.Widget.checkWidget(Widget.java:370)
+	at org.eclipse.swt.widgets.Widget.checkParent(Widget.java:301)
+	at org.eclipse.swt.widgets.Widget.<init>(Widget.java:165)
+	at org.eclipse.swt.widgets.Control.<init>(Control.java:114)
+	at org.eclipse.swt.widgets.Scrollable.<init>(Scrollable.java:85)
+	at org.eclipse.swt.widgets.Composite.<init>(Composite.java:99)
+	at org.eclipse.e4.ui.workbench.renderers.swt.ContributedPartRenderer$1.<init>(ContributedPartRenderer.java:86)
+	at org.eclipse.e4.ui.workbench.renderers.swt.ContributedPartRenderer.createWidget(ContributedPartRenderer.java:86)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.createWidget(PartRenderingEngine.java:991)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.safeCreateGui(PartRenderingEngine.java:658)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.safeCreateGui(PartRenderingEngine.java:762)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine$2.run(PartRenderingEngine.java:727)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:47)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.createGui(PartRenderingEngine.java:711)
+	at org.eclipse.e4.ui.internal.workbench.PartServiceImpl.createElement(PartServiceImpl.java:1314)
+	at org.eclipse.e4.ui.internal.workbench.PartServiceImpl.showPart(PartServiceImpl.java:1275)
+	at org.eclipse.ui.internal.WorkbenchPartReference.getPart(WorkbenchPartReference.java:395)
+	at org.eclipse.ui.internal.EditorReference.getEditor(EditorReference.java:283)
+	at org.eclipse.cdt.lsp.LspUtils.isFileOpenedInLspEditor(LspUtils.java:96)
+	at org.eclipse.cdt.lsp.editor.CEditorAssociationOverride.isEnabledFor(CEditorAssociationOverride.java:97)
+	at org.eclipse.cdt.lsp.editor.CEditorAssociationOverride.getEditorDescriptor(CEditorAssociationOverride.java:144)
+	at org.eclipse.cdt.lsp.editor.CEditorAssociationOverride.overrideDefaultEditor(CEditorAssociationOverride.java:71)
+	at org.eclipse.ui.ide.IDE.overrideDefaultEditorAssociation(IDE.java:847)
+	at org.eclipse.ui.ide.IDE.getEditorDescriptorForFileStore(IDE.java:821)
+	at org.eclipse.cdt.dsf.debug.ui.sourcelookup.DsfSourceDisplayAdapter$LookupJob.getEditorIdForFileStore(DsfSourceDisplayAdapter.java:284)
+	at org.eclipse.cdt.dsf.debug.ui.sourcelookup.DsfSourceDisplayAdapter$LookupJob.performLookup(DsfSourceDisplayAdapter.java:252)
+	at org.eclipse.cdt.dsf.debug.ui.sourcelookup.DsfSourceDisplayAdapter$LookupJob.run(DsfSourceDisplayAdapter.java:203)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+
+!ENTRY org.eclipse.core.jobs 4 2 2024-05-23 11:28:16.626
+!MESSAGE An internal error occurred during: "DSF Source Lookup".
+!STACK 0
+java.lang.NullPointerException: Cannot invoke "org.eclipse.ui.IEditorPart.getEditorSite()" because the return value of "org.eclipse.ui.IEditorReference.getEditor(boolean)" is null
+	at org.eclipse.cdt.lsp.LspUtils.isFileOpenedInLspEditor(LspUtils.java:96)
+	at org.eclipse.cdt.lsp.editor.CEditorAssociationOverride.isEnabledFor(CEditorAssociationOverride.java:97)
+	at org.eclipse.cdt.lsp.editor.CEditorAssociationOverride.getEditorDescriptor(CEditorAssociationOverride.java:144)
+	at org.eclipse.cdt.lsp.editor.CEditorAssociationOverride.overrideDefaultEditor(CEditorAssociationOverride.java:71)
+	at org.eclipse.ui.ide.IDE.overrideDefaultEditorAssociation(IDE.java:847)
+	at org.eclipse.ui.ide.IDE.getEditorDescriptorForFileStore(IDE.java:821)
+	at org.eclipse.cdt.dsf.debug.ui.sourcelookup.DsfSourceDisplayAdapter$LookupJob.getEditorIdForFileStore(DsfSourceDisplayAdapter.java:284)
+	at org.eclipse.cdt.dsf.debug.ui.sourcelookup.DsfSourceDisplayAdapter$LookupJob.performLookup(DsfSourceDisplayAdapter.java:252)
+	at org.eclipse.cdt.dsf.debug.ui.sourcelookup.DsfSourceDisplayAdapter$LookupJob.run(DsfSourceDisplayAdapter.java:203)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-23 11:29:43.521
+!MESSAGE Port 3333 is available
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-23 11:29:43.528
+!MESSAGE Port 3333 is available
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-23 11:29:43.531
+!MESSAGE Port 4444 is available
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-23 11:29:43.533
+!MESSAGE Port 6666 is available
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-23 11:29:43.570
+!MESSAGE Open On-Chip Debugger v0.12.0-esp32-20230921 (2023-09-21-13:40)
+Licensed under GNU GPL v2
+For bug reports, read
+	http://openocd.org/doc/doxygen/bugs.html
+
+!ENTRY org.eclipse.embedcdt.debug.gdbjtag.core 4 1 2024-05-23 11:29:43.573
+!MESSAGE C:\Espressif\tools\openocd-esp32\v0.12.0-esp32-20230921\openocd-esp32\bin/openocd.exe -c gdb_port 3333 -c telnet_port 4444 -c tcl_port 6666 -s C:\Espressif\tools\openocd-esp32\v0.12.0-esp32-20230921\openocd-esp32\bin/share/openocd/scripts -f board/esp32-wrover-kit-1.8v.cfg -c program_esp_bins E:/Users/Steven/Documents/GitHub/eclipse-workspace/Blink_LED_and_Print/build flasher_args.json verify reset -c echo "Started by GNU MCU Eclipse"
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-23 11:29:48.192
+!MESSAGE Port 3333 is not available, trying next port: 3334
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-23 11:29:48.196
+!MESSAGE Port 3334 is available
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-23 11:29:48.199
+!MESSAGE Port 4444 is not available, trying next port: 4445
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-23 11:29:48.203
+!MESSAGE Port 4445 is available
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-23 11:29:48.206
+!MESSAGE Port 6666 is not available, trying next port: 6667
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-23 11:29:48.209
+!MESSAGE Port 6667 is available
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-23 11:29:48.248
+!MESSAGE Open On-Chip Debugger v0.12.0-esp32-20230921 (2023-09-21-13:40)
+Licensed under GNU GPL v2
+For bug reports, read
+	http://openocd.org/doc/doxygen/bugs.html
+
+!ENTRY org.eclipse.embedcdt.debug.gdbjtag.core 4 1 2024-05-23 11:29:48.263
+!MESSAGE C:\Espressif\tools\xtensa-esp-elf-gdb\12.1_20231023\xtensa-esp-elf-gdb\bin\xtensa-esp32-elf-gdb.exe --interpreter=mi2 --nx
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-23 11:29:51.532
+!MESSAGE Project:: P/Blink_LED_and_Print
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-23 11:29:51.534
+!MESSAGE Initialization Commands::mon reset halt
+flushregs
+set remote hardware-watchpoint-limit 2
+
+!ENTRY org.eclipse.e4.ui.workbench.swt 4 2 2024-05-23 11:30:00.046
+!MESSAGE Problems occurred when invoking code from plug-in: "org.eclipse.e4.ui.workbench.swt".
+!STACK 0
+org.eclipse.swt.SWTException: Invalid thread access
+	at org.eclipse.swt.SWT.error(SWT.java:4922)
+	at org.eclipse.swt.SWT.error(SWT.java:4837)
+	at org.eclipse.swt.SWT.error(SWT.java:4808)
+	at org.eclipse.swt.widgets.Widget.error(Widget.java:450)
+	at org.eclipse.swt.widgets.Widget.checkWidget(Widget.java:370)
+	at org.eclipse.swt.widgets.Widget.checkParent(Widget.java:301)
+	at org.eclipse.swt.widgets.Widget.<init>(Widget.java:165)
+	at org.eclipse.swt.widgets.Control.<init>(Control.java:114)
+	at org.eclipse.swt.widgets.Scrollable.<init>(Scrollable.java:85)
+	at org.eclipse.swt.widgets.Composite.<init>(Composite.java:99)
+	at org.eclipse.e4.ui.workbench.renderers.swt.ContributedPartRenderer$1.<init>(ContributedPartRenderer.java:86)
+	at org.eclipse.e4.ui.workbench.renderers.swt.ContributedPartRenderer.createWidget(ContributedPartRenderer.java:86)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.createWidget(PartRenderingEngine.java:991)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.safeCreateGui(PartRenderingEngine.java:658)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.safeCreateGui(PartRenderingEngine.java:762)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine$2.run(PartRenderingEngine.java:727)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:47)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.createGui(PartRenderingEngine.java:711)
+	at org.eclipse.e4.ui.internal.workbench.PartServiceImpl.createElement(PartServiceImpl.java:1314)
+	at org.eclipse.e4.ui.internal.workbench.PartServiceImpl.showPart(PartServiceImpl.java:1275)
+	at org.eclipse.ui.internal.WorkbenchPartReference.getPart(WorkbenchPartReference.java:395)
+	at org.eclipse.ui.internal.EditorReference.getEditor(EditorReference.java:283)
+	at org.eclipse.cdt.lsp.LspUtils.isFileOpenedInLspEditor(LspUtils.java:96)
+	at org.eclipse.cdt.lsp.editor.CEditorAssociationOverride.isEnabledFor(CEditorAssociationOverride.java:97)
+	at org.eclipse.cdt.lsp.editor.CEditorAssociationOverride.getEditorDescriptor(CEditorAssociationOverride.java:144)
+	at org.eclipse.cdt.lsp.editor.CEditorAssociationOverride.overrideDefaultEditor(CEditorAssociationOverride.java:71)
+	at org.eclipse.ui.ide.IDE.overrideDefaultEditorAssociation(IDE.java:847)
+	at org.eclipse.ui.ide.IDE.getEditorDescriptorForFileStore(IDE.java:821)
+	at org.eclipse.cdt.dsf.debug.ui.sourcelookup.DsfSourceDisplayAdapter$LookupJob.getEditorIdForFileStore(DsfSourceDisplayAdapter.java:284)
+	at org.eclipse.cdt.dsf.debug.ui.sourcelookup.DsfSourceDisplayAdapter$LookupJob.performLookup(DsfSourceDisplayAdapter.java:252)
+	at org.eclipse.cdt.dsf.debug.ui.sourcelookup.DsfSourceDisplayAdapter$LookupJob.run(DsfSourceDisplayAdapter.java:203)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+
+!ENTRY org.eclipse.e4.ui.workbench 4 0 2024-05-23 11:30:00.047
+!MESSAGE Exception occurred while rendering: org.eclipse.e4.ui.compatibility.editor=org.eclipse.e4.ui.model.application.ui.basic.impl.PartImpl@351e89fc (tags: [Editor, removeOnHide, org.eclipse.cdt.ui.editor.CEditor], contributorURI: null) (widget: null, renderer: org.eclipse.e4.ui.workbench.renderers.swt.ContributedPartRenderer@19305a7c, toBeRendered: true, onTop: false, visible: true, containerData: null, accessibilityPhrase: null) (contributionURI: bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityEditor, object: null, context: PartImpl (org.eclipse.e4.ui.compatibility.editor)  removeOnHide org.eclipse.cdt.ui.editor.CEditor (cpu.c) Context, variables: [], label: cpu.c, iconURI: platform:/plugin/org.eclipse.cdt.ui/icons/obj16/c_file_obj.gif, tooltip: null, dirty: false, closeable: true, description: null)
+!STACK 0
+org.eclipse.swt.SWTException: Invalid thread access
+	at org.eclipse.swt.SWT.error(SWT.java:4922)
+	at org.eclipse.swt.SWT.error(SWT.java:4837)
+	at org.eclipse.swt.SWT.error(SWT.java:4808)
+	at org.eclipse.swt.widgets.Widget.error(Widget.java:450)
+	at org.eclipse.swt.widgets.Widget.checkWidget(Widget.java:370)
+	at org.eclipse.swt.widgets.Widget.checkParent(Widget.java:301)
+	at org.eclipse.swt.widgets.Widget.<init>(Widget.java:165)
+	at org.eclipse.swt.widgets.Control.<init>(Control.java:114)
+	at org.eclipse.swt.widgets.Scrollable.<init>(Scrollable.java:85)
+	at org.eclipse.swt.widgets.Composite.<init>(Composite.java:99)
+	at org.eclipse.e4.ui.workbench.renderers.swt.ContributedPartRenderer$1.<init>(ContributedPartRenderer.java:86)
+	at org.eclipse.e4.ui.workbench.renderers.swt.ContributedPartRenderer.createWidget(ContributedPartRenderer.java:86)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.createWidget(PartRenderingEngine.java:991)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.safeCreateGui(PartRenderingEngine.java:658)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.safeCreateGui(PartRenderingEngine.java:762)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine$2.run(PartRenderingEngine.java:727)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:47)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.createGui(PartRenderingEngine.java:711)
+	at org.eclipse.e4.ui.internal.workbench.PartServiceImpl.createElement(PartServiceImpl.java:1314)
+	at org.eclipse.e4.ui.internal.workbench.PartServiceImpl.showPart(PartServiceImpl.java:1275)
+	at org.eclipse.ui.internal.WorkbenchPartReference.getPart(WorkbenchPartReference.java:395)
+	at org.eclipse.ui.internal.EditorReference.getEditor(EditorReference.java:283)
+	at org.eclipse.cdt.lsp.LspUtils.isFileOpenedInLspEditor(LspUtils.java:96)
+	at org.eclipse.cdt.lsp.editor.CEditorAssociationOverride.isEnabledFor(CEditorAssociationOverride.java:97)
+	at org.eclipse.cdt.lsp.editor.CEditorAssociationOverride.getEditorDescriptor(CEditorAssociationOverride.java:144)
+	at org.eclipse.cdt.lsp.editor.CEditorAssociationOverride.overrideDefaultEditor(CEditorAssociationOverride.java:71)
+	at org.eclipse.ui.ide.IDE.overrideDefaultEditorAssociation(IDE.java:847)
+	at org.eclipse.ui.ide.IDE.getEditorDescriptorForFileStore(IDE.java:821)
+	at org.eclipse.cdt.dsf.debug.ui.sourcelookup.DsfSourceDisplayAdapter$LookupJob.getEditorIdForFileStore(DsfSourceDisplayAdapter.java:284)
+	at org.eclipse.cdt.dsf.debug.ui.sourcelookup.DsfSourceDisplayAdapter$LookupJob.performLookup(DsfSourceDisplayAdapter.java:252)
+	at org.eclipse.cdt.dsf.debug.ui.sourcelookup.DsfSourceDisplayAdapter$LookupJob.run(DsfSourceDisplayAdapter.java:203)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+
+!ENTRY org.eclipse.core.jobs 4 2 2024-05-23 11:30:00.048
+!MESSAGE An internal error occurred during: "DSF Source Lookup".
+!STACK 0
+java.lang.NullPointerException: Cannot invoke "org.eclipse.ui.IEditorPart.getEditorSite()" because the return value of "org.eclipse.ui.IEditorReference.getEditor(boolean)" is null
+	at org.eclipse.cdt.lsp.LspUtils.isFileOpenedInLspEditor(LspUtils.java:96)
+	at org.eclipse.cdt.lsp.editor.CEditorAssociationOverride.isEnabledFor(CEditorAssociationOverride.java:97)
+	at org.eclipse.cdt.lsp.editor.CEditorAssociationOverride.getEditorDescriptor(CEditorAssociationOverride.java:144)
+	at org.eclipse.cdt.lsp.editor.CEditorAssociationOverride.overrideDefaultEditor(CEditorAssociationOverride.java:71)
+	at org.eclipse.ui.ide.IDE.overrideDefaultEditorAssociation(IDE.java:847)
+	at org.eclipse.ui.ide.IDE.getEditorDescriptorForFileStore(IDE.java:821)
+	at org.eclipse.cdt.dsf.debug.ui.sourcelookup.DsfSourceDisplayAdapter$LookupJob.getEditorIdForFileStore(DsfSourceDisplayAdapter.java:284)
+	at org.eclipse.cdt.dsf.debug.ui.sourcelookup.DsfSourceDisplayAdapter$LookupJob.performLookup(DsfSourceDisplayAdapter.java:252)
+	at org.eclipse.cdt.dsf.debug.ui.sourcelookup.DsfSourceDisplayAdapter$LookupJob.run(DsfSourceDisplayAdapter.java:203)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+
+!ENTRY org.eclipse.cdt.core 1 0 2024-05-23 11:48:53.456
+!MESSAGE Indexed 'Blink_LED_and_Print' (0 sources, 0 headers) in 0.002 sec: 0 declarations; 0 references; 0 unresolved inclusions; 0 syntax errors; 0 unresolved names (0%)
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-23 11:49:14.198
+!MESSAGE Port 3333 is available
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-23 11:49:14.210
+!MESSAGE Port 3333 is available
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-23 11:49:14.215
+!MESSAGE Port 4444 is available
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-23 11:49:14.220
+!MESSAGE Port 6666 is available
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-23 11:49:14.264
+!MESSAGE Open On-Chip Debugger v0.12.0-esp32-20230921 (2023-09-21-13:40)
+Licensed under GNU GPL v2
+For bug reports, read
+	http://openocd.org/doc/doxygen/bugs.html
+
+!ENTRY org.eclipse.embedcdt.managedbuild.cross.riscv.core 4 1 2024-05-23 11:49:14.267
+!MESSAGE C:\Espressif\tools\openocd-esp32\v0.12.0-esp32-20230921\openocd-esp32\bin/openocd.exe -c gdb_port 3333 -c telnet_port 4444 -c tcl_port 6666 -s C:\Espressif\tools\openocd-esp32\v0.12.0-esp32-20230921\openocd-esp32\bin/share/openocd/scripts -f board/esp32-wrover-kit-1.8v.cfg -c program_esp_bins E:/Users/Steven/Documents/GitHub/eclipse-workspace/Blink_LED_and_Print/build flasher_args.json verify reset -c echo "Started by GNU MCU Eclipse"
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-23 11:49:18.961
+!MESSAGE Port 3333 is not available, trying next port: 3334
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-23 11:49:18.968
+!MESSAGE Port 3334 is available
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-23 11:49:18.976
+!MESSAGE Port 4444 is not available, trying next port: 4445
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-23 11:49:18.979
+!MESSAGE Port 4445 is available
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-23 11:49:18.982
+!MESSAGE Port 6666 is not available, trying next port: 6667
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-23 11:49:18.985
+!MESSAGE Port 6667 is available
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-23 11:49:19.024
+!MESSAGE Open On-Chip Debugger v0.12.0-esp32-20230921 (2023-09-21-13:40)
+Licensed under GNU GPL v2
+For bug reports, read
+	http://openocd.org/doc/doxygen/bugs.html
+
+!ENTRY org.eclipse.embedcdt.managedbuild.cross.riscv.core 4 1 2024-05-23 11:49:19.041
+!MESSAGE C:\Espressif\tools\xtensa-esp-elf-gdb\12.1_20231023\xtensa-esp-elf-gdb\bin\xtensa-esp32-elf-gdb.exe --interpreter=mi2 --nx
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-23 11:49:22.329
+!MESSAGE Project:: P/Blink_LED_and_Print
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-23 11:49:22.331
+!MESSAGE Initialization Commands::mon reset halt
+flushregs
+set remote hardware-watchpoint-limit 2
+
+!ENTRY org.eclipse.e4.ui.workbench.swt 4 2 2024-05-23 11:49:30.822
+!MESSAGE Problems occurred when invoking code from plug-in: "org.eclipse.e4.ui.workbench.swt".
+!STACK 0
+org.eclipse.swt.SWTException: Invalid thread access
+	at org.eclipse.swt.SWT.error(SWT.java:4922)
+	at org.eclipse.swt.SWT.error(SWT.java:4837)
+	at org.eclipse.swt.SWT.error(SWT.java:4808)
+	at org.eclipse.swt.widgets.Widget.error(Widget.java:450)
+	at org.eclipse.swt.widgets.Widget.checkWidget(Widget.java:370)
+	at org.eclipse.swt.widgets.Widget.checkParent(Widget.java:301)
+	at org.eclipse.swt.widgets.Widget.<init>(Widget.java:165)
+	at org.eclipse.swt.widgets.Control.<init>(Control.java:114)
+	at org.eclipse.swt.widgets.Scrollable.<init>(Scrollable.java:85)
+	at org.eclipse.swt.widgets.Composite.<init>(Composite.java:99)
+	at org.eclipse.e4.ui.workbench.renderers.swt.ContributedPartRenderer$1.<init>(ContributedPartRenderer.java:86)
+	at org.eclipse.e4.ui.workbench.renderers.swt.ContributedPartRenderer.createWidget(ContributedPartRenderer.java:86)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.createWidget(PartRenderingEngine.java:991)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.safeCreateGui(PartRenderingEngine.java:658)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.safeCreateGui(PartRenderingEngine.java:762)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine$2.run(PartRenderingEngine.java:727)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:47)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.createGui(PartRenderingEngine.java:711)
+	at org.eclipse.e4.ui.internal.workbench.PartServiceImpl.createElement(PartServiceImpl.java:1314)
+	at org.eclipse.e4.ui.internal.workbench.PartServiceImpl.showPart(PartServiceImpl.java:1275)
+	at org.eclipse.ui.internal.WorkbenchPartReference.getPart(WorkbenchPartReference.java:395)
+	at org.eclipse.ui.internal.EditorReference.getEditor(EditorReference.java:283)
+	at org.eclipse.cdt.lsp.LspUtils.isFileOpenedInLspEditor(LspUtils.java:96)
+	at org.eclipse.cdt.lsp.editor.CEditorAssociationOverride.isEnabledFor(CEditorAssociationOverride.java:97)
+	at org.eclipse.cdt.lsp.editor.CEditorAssociationOverride.getEditorDescriptor(CEditorAssociationOverride.java:144)
+	at org.eclipse.cdt.lsp.editor.CEditorAssociationOverride.overrideDefaultEditor(CEditorAssociationOverride.java:71)
+	at org.eclipse.ui.ide.IDE.overrideDefaultEditorAssociation(IDE.java:847)
+	at org.eclipse.ui.ide.IDE.getEditorDescriptorForFileStore(IDE.java:821)
+	at org.eclipse.cdt.dsf.debug.ui.sourcelookup.DsfSourceDisplayAdapter$LookupJob.getEditorIdForFileStore(DsfSourceDisplayAdapter.java:284)
+	at org.eclipse.cdt.dsf.debug.ui.sourcelookup.DsfSourceDisplayAdapter$LookupJob.performLookup(DsfSourceDisplayAdapter.java:252)
+	at org.eclipse.cdt.dsf.debug.ui.sourcelookup.DsfSourceDisplayAdapter$LookupJob.run(DsfSourceDisplayAdapter.java:203)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+
+!ENTRY org.eclipse.e4.ui.workbench 4 0 2024-05-23 11:49:30.823
+!MESSAGE Exception occurred while rendering: org.eclipse.e4.ui.compatibility.editor=org.eclipse.e4.ui.model.application.ui.basic.impl.PartImpl@351e89fc (tags: [Editor, removeOnHide, org.eclipse.cdt.ui.editor.CEditor], contributorURI: null) (widget: null, renderer: org.eclipse.e4.ui.workbench.renderers.swt.ContributedPartRenderer@19305a7c, toBeRendered: true, onTop: false, visible: true, containerData: null, accessibilityPhrase: null) (contributionURI: bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityEditor, object: null, context: PartImpl (org.eclipse.e4.ui.compatibility.editor)  removeOnHide org.eclipse.cdt.ui.editor.CEditor (cpu.c) Context, variables: [], label: cpu.c, iconURI: platform:/plugin/org.eclipse.cdt.ui/icons/obj16/c_file_obj.gif, tooltip: null, dirty: false, closeable: true, description: null)
+!STACK 0
+org.eclipse.swt.SWTException: Invalid thread access
+	at org.eclipse.swt.SWT.error(SWT.java:4922)
+	at org.eclipse.swt.SWT.error(SWT.java:4837)
+	at org.eclipse.swt.SWT.error(SWT.java:4808)
+	at org.eclipse.swt.widgets.Widget.error(Widget.java:450)
+	at org.eclipse.swt.widgets.Widget.checkWidget(Widget.java:370)
+	at org.eclipse.swt.widgets.Widget.checkParent(Widget.java:301)
+	at org.eclipse.swt.widgets.Widget.<init>(Widget.java:165)
+	at org.eclipse.swt.widgets.Control.<init>(Control.java:114)
+	at org.eclipse.swt.widgets.Scrollable.<init>(Scrollable.java:85)
+	at org.eclipse.swt.widgets.Composite.<init>(Composite.java:99)
+	at org.eclipse.e4.ui.workbench.renderers.swt.ContributedPartRenderer$1.<init>(ContributedPartRenderer.java:86)
+	at org.eclipse.e4.ui.workbench.renderers.swt.ContributedPartRenderer.createWidget(ContributedPartRenderer.java:86)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.createWidget(PartRenderingEngine.java:991)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.safeCreateGui(PartRenderingEngine.java:658)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.safeCreateGui(PartRenderingEngine.java:762)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine$2.run(PartRenderingEngine.java:727)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:47)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.createGui(PartRenderingEngine.java:711)
+	at org.eclipse.e4.ui.internal.workbench.PartServiceImpl.createElement(PartServiceImpl.java:1314)
+	at org.eclipse.e4.ui.internal.workbench.PartServiceImpl.showPart(PartServiceImpl.java:1275)
+	at org.eclipse.ui.internal.WorkbenchPartReference.getPart(WorkbenchPartReference.java:395)
+	at org.eclipse.ui.internal.EditorReference.getEditor(EditorReference.java:283)
+	at org.eclipse.cdt.lsp.LspUtils.isFileOpenedInLspEditor(LspUtils.java:96)
+	at org.eclipse.cdt.lsp.editor.CEditorAssociationOverride.isEnabledFor(CEditorAssociationOverride.java:97)
+	at org.eclipse.cdt.lsp.editor.CEditorAssociationOverride.getEditorDescriptor(CEditorAssociationOverride.java:144)
+	at org.eclipse.cdt.lsp.editor.CEditorAssociationOverride.overrideDefaultEditor(CEditorAssociationOverride.java:71)
+	at org.eclipse.ui.ide.IDE.overrideDefaultEditorAssociation(IDE.java:847)
+	at org.eclipse.ui.ide.IDE.getEditorDescriptorForFileStore(IDE.java:821)
+	at org.eclipse.cdt.dsf.debug.ui.sourcelookup.DsfSourceDisplayAdapter$LookupJob.getEditorIdForFileStore(DsfSourceDisplayAdapter.java:284)
+	at org.eclipse.cdt.dsf.debug.ui.sourcelookup.DsfSourceDisplayAdapter$LookupJob.performLookup(DsfSourceDisplayAdapter.java:252)
+	at org.eclipse.cdt.dsf.debug.ui.sourcelookup.DsfSourceDisplayAdapter$LookupJob.run(DsfSourceDisplayAdapter.java:203)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+
+!ENTRY org.eclipse.core.jobs 4 2 2024-05-23 11:49:30.824
+!MESSAGE An internal error occurred during: "DSF Source Lookup".
+!STACK 0
+java.lang.NullPointerException: Cannot invoke "org.eclipse.ui.IEditorPart.getEditorSite()" because the return value of "org.eclipse.ui.IEditorReference.getEditor(boolean)" is null
+	at org.eclipse.cdt.lsp.LspUtils.isFileOpenedInLspEditor(LspUtils.java:96)
+	at org.eclipse.cdt.lsp.editor.CEditorAssociationOverride.isEnabledFor(CEditorAssociationOverride.java:97)
+	at org.eclipse.cdt.lsp.editor.CEditorAssociationOverride.getEditorDescriptor(CEditorAssociationOverride.java:144)
+	at org.eclipse.cdt.lsp.editor.CEditorAssociationOverride.overrideDefaultEditor(CEditorAssociationOverride.java:71)
+	at org.eclipse.ui.ide.IDE.overrideDefaultEditorAssociation(IDE.java:847)
+	at org.eclipse.ui.ide.IDE.getEditorDescriptorForFileStore(IDE.java:821)
+	at org.eclipse.cdt.dsf.debug.ui.sourcelookup.DsfSourceDisplayAdapter$LookupJob.getEditorIdForFileStore(DsfSourceDisplayAdapter.java:284)
+	at org.eclipse.cdt.dsf.debug.ui.sourcelookup.DsfSourceDisplayAdapter$LookupJob.performLookup(DsfSourceDisplayAdapter.java:252)
+	at org.eclipse.cdt.dsf.debug.ui.sourcelookup.DsfSourceDisplayAdapter$LookupJob.run(DsfSourceDisplayAdapter.java:203)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+!SESSION 2024-05-24 13:16:32.078 -----------------------------------------------
+eclipse.buildId=4.31.0.20240307-1200
+java.version=22.0.1
+java.vendor=Eclipse Adoptium
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_GB
+Framework arguments:  -product org.eclipse.epp.package.embedcpp.product
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -product org.eclipse.epp.package.embedcpp.product
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-24 13:16:43.383
+!MESSAGE clangd: C:\Espressif\tools\esp-clang\16.0.1-fe4f10a809\esp-clang\bin\clangd.exe
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-24 13:16:43.411
+!MESSAGE clangd: C:\Espressif\tools\esp-clang\16.0.1-fe4f10a809\esp-clang\bin\clangd.exe
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-24 13:16:43.412
+!MESSAGE toolchain path: null
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-24 13:16:43.417
+!MESSAGE toolchain path: null
+
+!ENTRY org.eclipse.launchbar.core 2 0 2024-05-24 13:16:45.853
+!MESSAGE Enablement expression is missing for descriptor type com.espressif.idf.debug.gdbjtag.openocd.descriptorType
+
+!ENTRY org.eclipse.launchbar.core 2 0 2024-05-24 13:16:45.854
+!MESSAGE Enablement expression is missing for config provider for com.espressif.idf.debug.gdbjtag.openocd.descriptorType
+
+!ENTRY org.eclipse.launchbar.core 2 0 2024-05-24 13:16:45.856
+!MESSAGE Enablement expression is missing for config provider for com.espressif.idf.launch.serial.core.idf.descriptorType
+
+!ENTRY org.eclipse.launchbar.core 2 0 2024-05-24 13:16:45.857
+!MESSAGE Enablement expression is missing for descriptor type com.espressif.idf.launch.serial.core.idf.descriptorType
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-24 13:16:46.196
+!MESSAGE Initializing toolchain...
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-24 13:16:46.197
+!MESSAGE idf_tools.py path: C:\ESP-IDF\esp-idf-v5.2.1/tools/idf_tools.py
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-24 13:16:46.208
+!MESSAGE [C:\Espressif\python_env\idf5.2_py3.12_env\Scripts\python.exe, C:\ESP-IDF\esp-idf-v5.2.1/tools/idf_tools.py, export, --format=key-value]
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-24 13:16:48.019
+!MESSAGE idf_tools.py export output: OPENOCD_SCRIPTS=C:\Espressif\tools\openocd-esp32\v0.12.0-esp32-20230921\openocd-esp32\share\openocd\scripts
+IDF_CCACHE_ENABLE=1
+ESP_ROM_ELF_DIR=C:\Espressif\tools\esp-rom-elfs\20230320\
+IDF_PYTHON_ENV_PATH=C:\Espressif\python_env\idf5.2_py3.12_env
+ESP_IDF_VERSION=5.2
+PATH=C:\Espressif\tools\xtensa-esp-elf-gdb\12.1_20231023\xtensa-esp-elf-gdb\bin;C:\Espressif\tools\riscv32-esp-elf-gdb\12.1_20231023\riscv32-esp-elf-gdb\bin;C:\Espressif\tools\xtensa-esp-elf\esp-13.2.0_20230928\xtensa-esp-elf\bin;C:\Espressif\tools\esp-clang\16.0.1-fe4f10a809\esp-clang\bin;C:\Espressif\tools\riscv32-esp-elf\esp-13.2.0_20230928\riscv32-esp-elf\bin;C:\Espressif\tools\esp32ulp-elf\2.35_20220830\esp32ulp-elf\bin;C:\Espressif\tools\cmake\3.24.0\bin;C:\Espressif\tools\openocd-esp32\v0.12.0-esp32-20230921\openocd-esp32\bin;C:\Espressif\tools\ninja\1.11.1\;C:\Espressif\tools\idf-exe\1.0.3\;C:\Espressif\tools\ccache\4.8\ccache-4.8-windows-x86_64;C:\Espressif\tools\dfu-util\0.11\dfu-util-0.11-win64;C:\Espressif\tools\qemu-xtensa\esp_develop_8.1.3_20231206\qemu\bin;C:\Espressif\tools\qemu-riscv32\esp_develop_8.1.3_20231206\qemu\bin;C:\Espressif\python_env\idf5.2_py3.12_env\Scripts;C:\ESP-IDF\esp-idf-v5.2.1\tools;%PATH%
+IDF_DEACTIVATE_FILE_PATH=C:\Users\Steven\AppData\Local\Temp\tmptio3_xljidf_26536
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-24 13:16:48.021
+!MESSAGE PATH: C:\Espressif\tools\xtensa-esp-elf-gdb\12.1_20231023\xtensa-esp-elf-gdb\bin;C:\Espressif\tools\riscv32-esp-elf-gdb\12.1_20231023\riscv32-esp-elf-gdb\bin;C:\Espressif\tools\xtensa-esp-elf\esp-13.2.0_20230928\xtensa-esp-elf\bin;C:\Espressif\tools\esp-clang\16.0.1-fe4f10a809\esp-clang\bin;C:\Espressif\tools\riscv32-esp-elf\esp-13.2.0_20230928\riscv32-esp-elf\bin;C:\Espressif\tools\esp32ulp-elf\2.35_20220830\esp32ulp-elf\bin;C:\Espressif\tools\cmake\3.24.0\bin;C:\Espressif\tools\openocd-esp32\v0.12.0-esp32-20230921\openocd-esp32\bin;C:\Espressif\tools\ninja\1.11.1\;C:\Espressif\tools\idf-exe\1.0.3\;C:\Espressif\tools\ccache\4.8\ccache-4.8-windows-x86_64;C:\Espressif\tools\dfu-util\0.11\dfu-util-0.11-win64;C:\Espressif\tools\qemu-xtensa\esp_develop_8.1.3_20231206\qemu\bin;C:\Espressif\tools\qemu-riscv32\esp_develop_8.1.3_20231206\qemu\bin;C:\Espressif\python_env\idf5.2_py3.12_env\Scripts;C:\ESP-IDF\esp-idf-v5.2.1\tools;%PATH%
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-24 13:16:48.022
+!MESSAGE [C:\Espressif\tools\xtensa-esp-elf-gdb\12.1_20231023\xtensa-esp-elf-gdb\bin;C:\Espressif\tools\riscv32-esp-elf-gdb\12.1_20231023\riscv32-esp-elf-gdb\bin;C:\Espressif\tools\xtensa-esp-elf\esp-13.2.0_20230928\xtensa-esp-elf\bin;C:\Espressif\tools\esp-clang\16.0.1-fe4f10a809\esp-clang\bin;C:\Espressif\tools\riscv32-esp-elf\esp-13.2.0_20230928\riscv32-esp-elf\bin;C:\Espressif\tools\esp32ulp-elf\2.35_20220830\esp32ulp-elf\bin;C:\Espressif\tools\cmake\3.24.0\bin;C:\Espressif\tools\openocd-esp32\v0.12.0-esp32-20230921\openocd-esp32\bin;C:\Espressif\tools\ninja\1.11.1\;C:\Espressif\tools\idf-exe\1.0.3\;C:\Espressif\tools\ccache\4.8\ccache-4.8-windows-x86_64;C:\Espressif\tools\dfu-util\0.11\dfu-util-0.11-win64;C:\Espressif\tools\qemu-xtensa\esp_develop_8.1.3_20231206\qemu\bin;C:\Espressif\tools\qemu-riscv32\esp_develop_8.1.3_20231206\qemu\bin;C:\Espressif\python_env\idf5.2_py3.12_env\Scripts;C:\ESP-IDF\esp-idf-v5.2.1\tools;%PATH%]
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-24 13:16:48.370
+!MESSAGE Eclipse Install location::file:/C:/Users/Steven/embedcpp-2024-03/eclipse/
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-24 13:16:48.371
+!MESSAGE esp-idf.json file doesnt exist at this location: /C:/Users/Steven/embedcpp-2024-03/eclipse/
+
+!ENTRY org.eclipse.equinox.p2.operations 4 0 2024-05-24 13:17:13.866
+!MESSAGE Operation details
+!SUBENTRY 1 org.eclipse.equinox.p2.director 4 10054 2024-05-24 13:17:13.866
+!MESSAGE Cannot complete the install because of a conflicting dependency.
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 0 2024-05-24 13:17:13.866
+!MESSAGE Software being installed: Embedded C/C++ Core 6.0.0.202012080907 (org.eclipse.embedcdt.feature.group 6.0.0.202012080907)
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 0 2024-05-24 13:17:13.866
+!MESSAGE Software currently installed: Embedded C/C++ Core 6.5.0.202401111557 (org.eclipse.embedcdt.feature.group 6.5.0.202401111557)
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 1 2024-05-24 13:17:13.866
+!MESSAGE Only one of the following can be installed at once: 
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2024-05-24 13:17:13.866
+!MESSAGE Embedded C/C++ Core 6.0.0.202012080907 (org.eclipse.embedcdt.feature.jar 6.0.0.202012080907)
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2024-05-24 13:17:13.866
+!MESSAGE Embedded C/C++ Core 6.5.0.202401111557 (org.eclipse.embedcdt.feature.jar 6.5.0.202401111557)
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 1 2024-05-24 13:17:13.866
+!MESSAGE Cannot satisfy dependency:
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2024-05-24 13:17:13.866
+!MESSAGE From: Embedded C/C++ Core 6.0.0.202012080907 (org.eclipse.embedcdt.feature.group 6.0.0.202012080907)
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2024-05-24 13:17:13.866
+!MESSAGE To: org.eclipse.equinox.p2.iu; org.eclipse.embedcdt.feature.jar [6.0.0.202012080907,6.0.0.202012080907], filter=(org.eclipse.update.install.features=true)
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 1 2024-05-24 13:17:13.866
+!MESSAGE Cannot satisfy dependency:
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2024-05-24 13:17:13.866
+!MESSAGE From: Embedded C/C++ Core 6.5.0.202401111557 (org.eclipse.embedcdt.feature.group 6.5.0.202401111557)
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2024-05-24 13:17:13.866
+!MESSAGE To: org.eclipse.equinox.p2.iu; org.eclipse.embedcdt.feature.jar [6.5.0.202401111557,6.5.0.202401111557], filter=(org.eclipse.update.install.features=true)
+
+!ENTRY org.eclipse.equinox.p2.operations 4 0 2024-05-24 13:17:14.024
+!MESSAGE Operation details
+!SUBENTRY 1 org.eclipse.equinox.p2.director 4 10054 2024-05-24 13:17:14.024
+!MESSAGE Cannot complete the install because of a conflicting dependency.
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 0 2024-05-24 13:17:14.024
+!MESSAGE Software being installed: Embedded C/C++ Core 6.0.0.202012080907 (org.eclipse.embedcdt.feature.group 6.0.0.202012080907)
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 0 2024-05-24 13:17:14.024
+!MESSAGE Software currently installed: Embedded C/C++ Core 6.5.0.202401111557 (org.eclipse.embedcdt.feature.group 6.5.0.202401111557)
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 1 2024-05-24 13:17:14.024
+!MESSAGE Only one of the following can be installed at once: 
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2024-05-24 13:17:14.024
+!MESSAGE Embedded C/C++ Core 6.0.0.202012080907 (org.eclipse.embedcdt.feature.jar 6.0.0.202012080907)
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2024-05-24 13:17:14.024
+!MESSAGE Embedded C/C++ Core 6.5.0.202401111557 (org.eclipse.embedcdt.feature.jar 6.5.0.202401111557)
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 1 2024-05-24 13:17:14.024
+!MESSAGE Cannot satisfy dependency:
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2024-05-24 13:17:14.024
+!MESSAGE From: Embedded C/C++ Core 6.0.0.202012080907 (org.eclipse.embedcdt.feature.group 6.0.0.202012080907)
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2024-05-24 13:17:14.024
+!MESSAGE To: org.eclipse.equinox.p2.iu; org.eclipse.embedcdt.feature.jar [6.0.0.202012080907,6.0.0.202012080907], filter=(org.eclipse.update.install.features=true)
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 1 2024-05-24 13:17:14.024
+!MESSAGE Cannot satisfy dependency:
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2024-05-24 13:17:14.024
+!MESSAGE From: Embedded C/C++ Core 6.5.0.202401111557 (org.eclipse.embedcdt.feature.group 6.5.0.202401111557)
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2024-05-24 13:17:14.024
+!MESSAGE To: org.eclipse.equinox.p2.iu; org.eclipse.embedcdt.feature.jar [6.5.0.202401111557,6.5.0.202401111557], filter=(org.eclipse.update.install.features=true)
+
+!ENTRY org.eclipse.equinox.p2.operations 4 0 2024-05-24 13:17:14.796
+!MESSAGE Operation details
+!SUBENTRY 1 org.eclipse.equinox.p2.director 4 10054 2024-05-24 13:17:14.796
+!MESSAGE Cannot complete the install because of a conflicting dependency.
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 0 2024-05-24 13:17:14.796
+!MESSAGE Software being installed: Embedded C/C++ Core 6.0.0.202012080907 (org.eclipse.embedcdt.feature.group 6.0.0.202012080907)
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 0 2024-05-24 13:17:14.796
+!MESSAGE Software currently installed: Embedded C/C++ Core 6.5.0.202401111557 (org.eclipse.embedcdt.feature.group 6.5.0.202401111557)
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 1 2024-05-24 13:17:14.796
+!MESSAGE Only one of the following can be installed at once: 
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2024-05-24 13:17:14.796
+!MESSAGE Embedded C/C++ Core 6.0.0.202012080907 (org.eclipse.embedcdt.feature.jar 6.0.0.202012080907)
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2024-05-24 13:17:14.796
+!MESSAGE Embedded C/C++ Core 6.5.0.202401111557 (org.eclipse.embedcdt.feature.jar 6.5.0.202401111557)
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 1 2024-05-24 13:17:14.796
+!MESSAGE Cannot satisfy dependency:
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2024-05-24 13:17:14.796
+!MESSAGE From: Embedded C/C++ Core 6.0.0.202012080907 (org.eclipse.embedcdt.feature.group 6.0.0.202012080907)
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2024-05-24 13:17:14.796
+!MESSAGE To: org.eclipse.equinox.p2.iu; org.eclipse.embedcdt.feature.jar [6.0.0.202012080907,6.0.0.202012080907], filter=(org.eclipse.update.install.features=true)
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 1 2024-05-24 13:17:14.796
+!MESSAGE Cannot satisfy dependency:
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2024-05-24 13:17:14.796
+!MESSAGE From: Embedded C/C++ Core 6.5.0.202401111557 (org.eclipse.embedcdt.feature.group 6.5.0.202401111557)
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2024-05-24 13:17:14.796
+!MESSAGE To: org.eclipse.equinox.p2.iu; org.eclipse.embedcdt.feature.jar [6.5.0.202401111557,6.5.0.202401111557], filter=(org.eclipse.update.install.features=true)
+
+!ENTRY org.eclipse.equinox.p2.operations 4 0 2024-05-24 13:17:14.799
+!MESSAGE Operation details
+!SUBENTRY 1 org.eclipse.equinox.p2.director 4 10054 2024-05-24 13:17:14.799
+!MESSAGE Cannot complete the install because of a conflicting dependency.
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 0 2024-05-24 13:17:14.799
+!MESSAGE Software being installed: Embedded C/C++ Core 6.0.0.202012080907 (org.eclipse.embedcdt.feature.group 6.0.0.202012080907)
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 0 2024-05-24 13:17:14.799
+!MESSAGE Software currently installed: Embedded C/C++ Core 6.5.0.202401111557 (org.eclipse.embedcdt.feature.group 6.5.0.202401111557)
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 1 2024-05-24 13:17:14.799
+!MESSAGE Only one of the following can be installed at once: 
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2024-05-24 13:17:14.799
+!MESSAGE Embedded C/C++ Core 6.0.0.202012080907 (org.eclipse.embedcdt.feature.jar 6.0.0.202012080907)
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2024-05-24 13:17:14.799
+!MESSAGE Embedded C/C++ Core 6.5.0.202401111557 (org.eclipse.embedcdt.feature.jar 6.5.0.202401111557)
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 1 2024-05-24 13:17:14.799
+!MESSAGE Cannot satisfy dependency:
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2024-05-24 13:17:14.799
+!MESSAGE From: Embedded C/C++ Core 6.0.0.202012080907 (org.eclipse.embedcdt.feature.group 6.0.0.202012080907)
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2024-05-24 13:17:14.799
+!MESSAGE To: org.eclipse.equinox.p2.iu; org.eclipse.embedcdt.feature.jar [6.0.0.202012080907,6.0.0.202012080907], filter=(org.eclipse.update.install.features=true)
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 1 2024-05-24 13:17:14.799
+!MESSAGE Cannot satisfy dependency:
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2024-05-24 13:17:14.799
+!MESSAGE From: Embedded C/C++ Core 6.5.0.202401111557 (org.eclipse.embedcdt.feature.group 6.5.0.202401111557)
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2024-05-24 13:17:14.799
+!MESSAGE To: org.eclipse.equinox.p2.iu; org.eclipse.embedcdt.feature.jar [6.5.0.202401111557,6.5.0.202401111557], filter=(org.eclipse.update.install.features=true)
+!SESSION 2024-05-25 18:20:44.373 -----------------------------------------------
+eclipse.buildId=4.31.0.20240307-1200
+java.version=22.0.1
+java.vendor=Eclipse Adoptium
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_GB
+Framework arguments:  -product org.eclipse.epp.package.embedcpp.product
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -product org.eclipse.epp.package.embedcpp.product
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-25 18:20:54.951
+!MESSAGE clangd: C:\Espressif\tools\esp-clang\16.0.1-fe4f10a809\esp-clang\bin\clangd.exe
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-25 18:20:54.982
+!MESSAGE clangd: C:\Espressif\tools\esp-clang\16.0.1-fe4f10a809\esp-clang\bin\clangd.exe
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-25 18:20:55.004
+!MESSAGE toolchain path: null
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-25 18:20:55.014
+!MESSAGE toolchain path: null
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-25 18:20:57.575
+!MESSAGE Initializing toolchain...
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-25 18:20:57.576
+!MESSAGE idf_tools.py path: C:\ESP-IDF\esp-idf-v5.2.1/tools/idf_tools.py
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-25 18:20:57.578
+!MESSAGE [C:\Espressif\python_env\idf5.2_py3.12_env\Scripts\python.exe, C:\ESP-IDF\esp-idf-v5.2.1/tools/idf_tools.py, export, --format=key-value]
+
+!ENTRY org.eclipse.launchbar.core 2 0 2024-05-25 18:20:57.768
+!MESSAGE Enablement expression is missing for descriptor type com.espressif.idf.debug.gdbjtag.openocd.descriptorType
+
+!ENTRY org.eclipse.launchbar.core 2 0 2024-05-25 18:20:57.769
+!MESSAGE Enablement expression is missing for config provider for com.espressif.idf.debug.gdbjtag.openocd.descriptorType
+
+!ENTRY org.eclipse.launchbar.core 2 0 2024-05-25 18:20:57.770
+!MESSAGE Enablement expression is missing for config provider for com.espressif.idf.launch.serial.core.idf.descriptorType
+
+!ENTRY org.eclipse.launchbar.core 2 0 2024-05-25 18:20:57.771
+!MESSAGE Enablement expression is missing for descriptor type com.espressif.idf.launch.serial.core.idf.descriptorType
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-25 18:20:59.900
+!MESSAGE Eclipse Install location::file:/C:/Users/Steven/embedcpp-2024-03/eclipse/
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-25 18:20:59.903
+!MESSAGE esp-idf.json file doesnt exist at this location: /C:/Users/Steven/embedcpp-2024-03/eclipse/
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-25 18:20:59.927
+!MESSAGE idf_tools.py export output: OPENOCD_SCRIPTS=C:\Espressif\tools\openocd-esp32\v0.12.0-esp32-20230921\openocd-esp32\share\openocd\scripts
+IDF_CCACHE_ENABLE=1
+ESP_ROM_ELF_DIR=C:\Espressif\tools\esp-rom-elfs\20230320\
+IDF_PYTHON_ENV_PATH=C:\Espressif\python_env\idf5.2_py3.12_env
+ESP_IDF_VERSION=5.2
+PATH=C:\Espressif\tools\xtensa-esp-elf-gdb\12.1_20231023\xtensa-esp-elf-gdb\bin;C:\Espressif\tools\riscv32-esp-elf-gdb\12.1_20231023\riscv32-esp-elf-gdb\bin;C:\Espressif\tools\xtensa-esp-elf\esp-13.2.0_20230928\xtensa-esp-elf\bin;C:\Espressif\tools\esp-clang\16.0.1-fe4f10a809\esp-clang\bin;C:\Espressif\tools\riscv32-esp-elf\esp-13.2.0_20230928\riscv32-esp-elf\bin;C:\Espressif\tools\esp32ulp-elf\2.35_20220830\esp32ulp-elf\bin;C:\Espressif\tools\cmake\3.24.0\bin;C:\Espressif\tools\openocd-esp32\v0.12.0-esp32-20230921\openocd-esp32\bin;C:\Espressif\tools\ninja\1.11.1\;C:\Espressif\tools\idf-exe\1.0.3\;C:\Espressif\tools\ccache\4.8\ccache-4.8-windows-x86_64;C:\Espressif\tools\dfu-util\0.11\dfu-util-0.11-win64;C:\Espressif\tools\qemu-xtensa\esp_develop_8.1.3_20231206\qemu\bin;C:\Espressif\tools\qemu-riscv32\esp_develop_8.1.3_20231206\qemu\bin;C:\Espressif\python_env\idf5.2_py3.12_env\Scripts;C:\ESP-IDF\esp-idf-v5.2.1\tools;%PATH%
+IDF_DEACTIVATE_FILE_PATH=C:\Users\Steven\AppData\Local\Temp\tmpymfpl8i7idf_27428
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-25 18:20:59.929
+!MESSAGE PATH: C:\Espressif\tools\xtensa-esp-elf-gdb\12.1_20231023\xtensa-esp-elf-gdb\bin;C:\Espressif\tools\riscv32-esp-elf-gdb\12.1_20231023\riscv32-esp-elf-gdb\bin;C:\Espressif\tools\xtensa-esp-elf\esp-13.2.0_20230928\xtensa-esp-elf\bin;C:\Espressif\tools\esp-clang\16.0.1-fe4f10a809\esp-clang\bin;C:\Espressif\tools\riscv32-esp-elf\esp-13.2.0_20230928\riscv32-esp-elf\bin;C:\Espressif\tools\esp32ulp-elf\2.35_20220830\esp32ulp-elf\bin;C:\Espressif\tools\cmake\3.24.0\bin;C:\Espressif\tools\openocd-esp32\v0.12.0-esp32-20230921\openocd-esp32\bin;C:\Espressif\tools\ninja\1.11.1\;C:\Espressif\tools\idf-exe\1.0.3\;C:\Espressif\tools\ccache\4.8\ccache-4.8-windows-x86_64;C:\Espressif\tools\dfu-util\0.11\dfu-util-0.11-win64;C:\Espressif\tools\qemu-xtensa\esp_develop_8.1.3_20231206\qemu\bin;C:\Espressif\tools\qemu-riscv32\esp_develop_8.1.3_20231206\qemu\bin;C:\Espressif\python_env\idf5.2_py3.12_env\Scripts;C:\ESP-IDF\esp-idf-v5.2.1\tools;%PATH%
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-25 18:20:59.929
+!MESSAGE [C:\Espressif\tools\xtensa-esp-elf-gdb\12.1_20231023\xtensa-esp-elf-gdb\bin;C:\Espressif\tools\riscv32-esp-elf-gdb\12.1_20231023\riscv32-esp-elf-gdb\bin;C:\Espressif\tools\xtensa-esp-elf\esp-13.2.0_20230928\xtensa-esp-elf\bin;C:\Espressif\tools\esp-clang\16.0.1-fe4f10a809\esp-clang\bin;C:\Espressif\tools\riscv32-esp-elf\esp-13.2.0_20230928\riscv32-esp-elf\bin;C:\Espressif\tools\esp32ulp-elf\2.35_20220830\esp32ulp-elf\bin;C:\Espressif\tools\cmake\3.24.0\bin;C:\Espressif\tools\openocd-esp32\v0.12.0-esp32-20230921\openocd-esp32\bin;C:\Espressif\tools\ninja\1.11.1\;C:\Espressif\tools\idf-exe\1.0.3\;C:\Espressif\tools\ccache\4.8\ccache-4.8-windows-x86_64;C:\Espressif\tools\dfu-util\0.11\dfu-util-0.11-win64;C:\Espressif\tools\qemu-xtensa\esp_develop_8.1.3_20231206\qemu\bin;C:\Espressif\tools\qemu-riscv32\esp_develop_8.1.3_20231206\qemu\bin;C:\Espressif\python_env\idf5.2_py3.12_env\Scripts;C:\ESP-IDF\esp-idf-v5.2.1\tools;%PATH%]
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-25 18:21:00.190
+!MESSAGE Project Name:: Blink_LED_and_Print
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-25 18:21:00.190
+!MESSAGE Project:: P/Blink_LED_and_Print
+
+!ENTRY org.eclipse.equinox.p2.operations 4 0 2024-05-25 18:21:34.680
+!MESSAGE Operation details
+!SUBENTRY 1 org.eclipse.equinox.p2.director 4 10054 2024-05-25 18:21:34.680
+!MESSAGE Cannot complete the install because of a conflicting dependency.
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 0 2024-05-25 18:21:34.680
+!MESSAGE Software being installed: Embedded C/C++ Core 6.0.0.202012080907 (org.eclipse.embedcdt.feature.group 6.0.0.202012080907)
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 0 2024-05-25 18:21:34.680
+!MESSAGE Software currently installed: Embedded C/C++ Core 6.5.0.202401111557 (org.eclipse.embedcdt.feature.group 6.5.0.202401111557)
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 1 2024-05-25 18:21:34.680
+!MESSAGE Only one of the following can be installed at once: 
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2024-05-25 18:21:34.680
+!MESSAGE Embedded C/C++ Core 6.0.0.202012080907 (org.eclipse.embedcdt.feature.jar 6.0.0.202012080907)
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2024-05-25 18:21:34.680
+!MESSAGE Embedded C/C++ Core 6.5.0.202401111557 (org.eclipse.embedcdt.feature.jar 6.5.0.202401111557)
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 1 2024-05-25 18:21:34.680
+!MESSAGE Cannot satisfy dependency:
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2024-05-25 18:21:34.680
+!MESSAGE From: Embedded C/C++ Core 6.0.0.202012080907 (org.eclipse.embedcdt.feature.group 6.0.0.202012080907)
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2024-05-25 18:21:34.680
+!MESSAGE To: org.eclipse.equinox.p2.iu; org.eclipse.embedcdt.feature.jar [6.0.0.202012080907,6.0.0.202012080907], filter=(org.eclipse.update.install.features=true)
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 1 2024-05-25 18:21:34.680
+!MESSAGE Cannot satisfy dependency:
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2024-05-25 18:21:34.680
+!MESSAGE From: Embedded C/C++ Core 6.5.0.202401111557 (org.eclipse.embedcdt.feature.group 6.5.0.202401111557)
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2024-05-25 18:21:34.680
+!MESSAGE To: org.eclipse.equinox.p2.iu; org.eclipse.embedcdt.feature.jar [6.5.0.202401111557,6.5.0.202401111557], filter=(org.eclipse.update.install.features=true)
+
+!ENTRY org.eclipse.equinox.p2.operations 4 0 2024-05-25 18:21:34.913
+!MESSAGE Operation details
+!SUBENTRY 1 org.eclipse.equinox.p2.director 4 10054 2024-05-25 18:21:34.913
+!MESSAGE Cannot complete the install because of a conflicting dependency.
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 0 2024-05-25 18:21:34.913
+!MESSAGE Software being installed: Embedded C/C++ Core 6.0.0.202012080907 (org.eclipse.embedcdt.feature.group 6.0.0.202012080907)
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 0 2024-05-25 18:21:34.913
+!MESSAGE Software currently installed: Embedded C/C++ Core 6.5.0.202401111557 (org.eclipse.embedcdt.feature.group 6.5.0.202401111557)
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 1 2024-05-25 18:21:34.913
+!MESSAGE Only one of the following can be installed at once: 
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2024-05-25 18:21:34.913
+!MESSAGE Embedded C/C++ Core 6.0.0.202012080907 (org.eclipse.embedcdt.feature.jar 6.0.0.202012080907)
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2024-05-25 18:21:34.913
+!MESSAGE Embedded C/C++ Core 6.5.0.202401111557 (org.eclipse.embedcdt.feature.jar 6.5.0.202401111557)
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 1 2024-05-25 18:21:34.913
+!MESSAGE Cannot satisfy dependency:
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2024-05-25 18:21:34.913
+!MESSAGE From: Embedded C/C++ Core 6.0.0.202012080907 (org.eclipse.embedcdt.feature.group 6.0.0.202012080907)
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2024-05-25 18:21:34.913
+!MESSAGE To: org.eclipse.equinox.p2.iu; org.eclipse.embedcdt.feature.jar [6.0.0.202012080907,6.0.0.202012080907], filter=(org.eclipse.update.install.features=true)
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 1 2024-05-25 18:21:34.913
+!MESSAGE Cannot satisfy dependency:
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2024-05-25 18:21:34.913
+!MESSAGE From: Embedded C/C++ Core 6.5.0.202401111557 (org.eclipse.embedcdt.feature.group 6.5.0.202401111557)
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2024-05-25 18:21:34.913
+!MESSAGE To: org.eclipse.equinox.p2.iu; org.eclipse.embedcdt.feature.jar [6.5.0.202401111557,6.5.0.202401111557], filter=(org.eclipse.update.install.features=true)
+
+!ENTRY org.eclipse.equinox.p2.operations 4 0 2024-05-25 18:21:35.675
+!MESSAGE Operation details
+!SUBENTRY 1 org.eclipse.equinox.p2.director 4 10054 2024-05-25 18:21:35.675
+!MESSAGE Cannot complete the install because of a conflicting dependency.
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 0 2024-05-25 18:21:35.675
+!MESSAGE Software being installed: Embedded C/C++ Core 6.0.0.202012080907 (org.eclipse.embedcdt.feature.group 6.0.0.202012080907)
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 0 2024-05-25 18:21:35.675
+!MESSAGE Software currently installed: Embedded C/C++ Core 6.5.0.202401111557 (org.eclipse.embedcdt.feature.group 6.5.0.202401111557)
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 1 2024-05-25 18:21:35.675
+!MESSAGE Only one of the following can be installed at once: 
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2024-05-25 18:21:35.675
+!MESSAGE Embedded C/C++ Core 6.0.0.202012080907 (org.eclipse.embedcdt.feature.jar 6.0.0.202012080907)
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2024-05-25 18:21:35.675
+!MESSAGE Embedded C/C++ Core 6.5.0.202401111557 (org.eclipse.embedcdt.feature.jar 6.5.0.202401111557)
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 1 2024-05-25 18:21:35.675
+!MESSAGE Cannot satisfy dependency:
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2024-05-25 18:21:35.675
+!MESSAGE From: Embedded C/C++ Core 6.0.0.202012080907 (org.eclipse.embedcdt.feature.group 6.0.0.202012080907)
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2024-05-25 18:21:35.675
+!MESSAGE To: org.eclipse.equinox.p2.iu; org.eclipse.embedcdt.feature.jar [6.0.0.202012080907,6.0.0.202012080907], filter=(org.eclipse.update.install.features=true)
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 1 2024-05-25 18:21:35.675
+!MESSAGE Cannot satisfy dependency:
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2024-05-25 18:21:35.675
+!MESSAGE From: Embedded C/C++ Core 6.5.0.202401111557 (org.eclipse.embedcdt.feature.group 6.5.0.202401111557)
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2024-05-25 18:21:35.675
+!MESSAGE To: org.eclipse.equinox.p2.iu; org.eclipse.embedcdt.feature.jar [6.5.0.202401111557,6.5.0.202401111557], filter=(org.eclipse.update.install.features=true)
+
+!ENTRY org.eclipse.equinox.p2.operations 4 0 2024-05-25 18:21:35.677
+!MESSAGE Operation details
+!SUBENTRY 1 org.eclipse.equinox.p2.director 4 10054 2024-05-25 18:21:35.677
+!MESSAGE Cannot complete the install because of a conflicting dependency.
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 0 2024-05-25 18:21:35.677
+!MESSAGE Software being installed: Embedded C/C++ Core 6.0.0.202012080907 (org.eclipse.embedcdt.feature.group 6.0.0.202012080907)
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 0 2024-05-25 18:21:35.677
+!MESSAGE Software currently installed: Embedded C/C++ Core 6.5.0.202401111557 (org.eclipse.embedcdt.feature.group 6.5.0.202401111557)
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 1 2024-05-25 18:21:35.677
+!MESSAGE Only one of the following can be installed at once: 
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2024-05-25 18:21:35.677
+!MESSAGE Embedded C/C++ Core 6.0.0.202012080907 (org.eclipse.embedcdt.feature.jar 6.0.0.202012080907)
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2024-05-25 18:21:35.677
+!MESSAGE Embedded C/C++ Core 6.5.0.202401111557 (org.eclipse.embedcdt.feature.jar 6.5.0.202401111557)
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 1 2024-05-25 18:21:35.677
+!MESSAGE Cannot satisfy dependency:
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2024-05-25 18:21:35.677
+!MESSAGE From: Embedded C/C++ Core 6.0.0.202012080907 (org.eclipse.embedcdt.feature.group 6.0.0.202012080907)
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2024-05-25 18:21:35.677
+!MESSAGE To: org.eclipse.equinox.p2.iu; org.eclipse.embedcdt.feature.jar [6.0.0.202012080907,6.0.0.202012080907], filter=(org.eclipse.update.install.features=true)
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 1 2024-05-25 18:21:35.677
+!MESSAGE Cannot satisfy dependency:
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2024-05-25 18:21:35.677
+!MESSAGE From: Embedded C/C++ Core 6.5.0.202401111557 (org.eclipse.embedcdt.feature.group 6.5.0.202401111557)
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2024-05-25 18:21:35.677
+!MESSAGE To: org.eclipse.equinox.p2.iu; org.eclipse.embedcdt.feature.jar [6.5.0.202401111557,6.5.0.202401111557], filter=(org.eclipse.update.install.features=true)
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-25 18:22:10.017
+!MESSAGE Open On-Chip Debugger v0.12.0-esp32-20230921 (2023-09-21-13:40)
+Licensed under GNU GPL v2
+For bug reports, read
+	http://openocd.org/doc/doxygen/bugs.html
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-25 18:23:48.591
+!MESSAGE Project Name:: Blink_LED_and_Print
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-25 18:23:48.591
+!MESSAGE Project:: P/Blink_LED_and_Print
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-25 18:23:51.349
+!MESSAGE ESP-IDF v5.2.1-dirty
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-25 18:23:56.374
+!MESSAGE Resolving for variable: BUILD_DIR
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-25 18:23:57.277
+!MESSAGE Port 3333 is available
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-25 18:23:57.300
+!MESSAGE Port 3333 is available
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-25 18:23:57.302
+!MESSAGE Port 4444 is available
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-25 18:23:57.305
+!MESSAGE Port 6666 is available
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-25 18:23:57.345
+!MESSAGE Open On-Chip Debugger v0.12.0-esp32-20230921 (2023-09-21-13:40)
+Licensed under GNU GPL v2
+For bug reports, read
+	http://openocd.org/doc/doxygen/bugs.html
+
+!ENTRY org.eclipse.embedcdt.debug.gdbjtag.core 4 1 2024-05-25 18:23:57.348
+!MESSAGE C:\Espressif\tools\openocd-esp32\v0.12.0-esp32-20230921\openocd-esp32\bin/openocd.exe -c gdb_port 3333 -c telnet_port 4444 -c tcl_port 6666 -s C:\Espressif\tools\openocd-esp32\v0.12.0-esp32-20230921\openocd-esp32\bin/share/openocd/scripts -f board/esp32-bridge.cfg -c program_esp_bins E:/Users/Steven/Documents/GitHub/eclipse-workspace/Blink_LED_and_Print/build flasher_args.json verify reset -c echo "Started by GNU MCU Eclipse"
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-25 18:23:57.487
+!MESSAGE Port 3333 is available
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-25 18:23:57.490
+!MESSAGE Port 4444 is available
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-25 18:23:57.492
+!MESSAGE Port 6666 is available
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-25 18:23:57.501
+!MESSAGE Port 3333 is available
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-25 18:23:57.506
+!MESSAGE Port 4444 is available
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-25 18:23:57.509
+!MESSAGE Port 6666 is available
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-25 18:23:57.548
+!MESSAGE Open On-Chip Debugger v0.12.0-esp32-20230921 (2023-09-21-13:40)
+Licensed under GNU GPL v2
+For bug reports, read
+	http://openocd.org/doc/doxygen/bugs.html
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-25 18:23:57.563
+!MESSAGE Open On-Chip Debugger v0.12.0-esp32-20230921 (2023-09-21-13:40)
+Licensed under GNU GPL v2
+For bug reports, read
+	http://openocd.org/doc/doxygen/bugs.html
+
+!ENTRY org.eclipse.embedcdt.debug.gdbjtag.core 4 0 2024-05-25 18:23:57.578
+!MESSAGE OpenOCD failed with code (1).
+
+For more details, see the openocd.exe console.
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-25 18:24:14.365
+!MESSAGE Open On-Chip Debugger v0.12.0-esp32-20230921 (2023-09-21-13:40)
+Licensed under GNU GPL v2
+For bug reports, read
+	http://openocd.org/doc/doxygen/bugs.html
