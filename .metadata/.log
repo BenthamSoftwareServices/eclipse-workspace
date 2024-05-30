@@ -10545,3 +10545,184 @@ For more details, see the openocd.exe console.
 Licensed under GNU GPL v2
 For bug reports, read
 	http://openocd.org/doc/doxygen/bugs.html
+!SESSION 2024-05-28 11:32:48.261 -----------------------------------------------
+eclipse.buildId=4.31.0.20240307-1200
+java.version=22.0.1
+java.vendor=Eclipse Adoptium
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_GB
+Framework arguments:  -product org.eclipse.epp.package.embedcpp.product
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -product org.eclipse.epp.package.embedcpp.product
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-28 11:32:59.790
+!MESSAGE clangd: C:\Espressif\tools\esp-clang\16.0.1-fe4f10a809\esp-clang\bin\clangd.exe
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-28 11:32:59.815
+!MESSAGE clangd: C:\Espressif\tools\esp-clang\16.0.1-fe4f10a809\esp-clang\bin\clangd.exe
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-28 11:32:59.816
+!MESSAGE toolchain path: null
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-28 11:32:59.822
+!MESSAGE toolchain path: null
+
+!ENTRY org.eclipse.launchbar.core 2 0 2024-05-28 11:33:02.330
+!MESSAGE Enablement expression is missing for descriptor type com.espressif.idf.debug.gdbjtag.openocd.descriptorType
+
+!ENTRY org.eclipse.launchbar.core 2 0 2024-05-28 11:33:02.331
+!MESSAGE Enablement expression is missing for config provider for com.espressif.idf.debug.gdbjtag.openocd.descriptorType
+
+!ENTRY org.eclipse.launchbar.core 2 0 2024-05-28 11:33:02.331
+!MESSAGE Enablement expression is missing for config provider for com.espressif.idf.launch.serial.core.idf.descriptorType
+
+!ENTRY org.eclipse.launchbar.core 2 0 2024-05-28 11:33:02.332
+!MESSAGE Enablement expression is missing for descriptor type com.espressif.idf.launch.serial.core.idf.descriptorType
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-28 11:33:02.451
+!MESSAGE Initializing toolchain...
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-28 11:33:02.452
+!MESSAGE idf_tools.py path: C:\ESP-IDF\esp-idf-v5.2.1/tools/idf_tools.py
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-28 11:33:02.454
+!MESSAGE [C:\Espressif\python_env\idf5.2_py3.12_env\Scripts\python.exe, C:\ESP-IDF\esp-idf-v5.2.1/tools/idf_tools.py, export, --format=key-value]
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-28 11:33:04.521
+!MESSAGE Eclipse Install location::file:/C:/Users/Steven/embedcpp-2024-03/eclipse/
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-28 11:33:04.522
+!MESSAGE esp-idf.json file doesnt exist at this location: /C:/Users/Steven/embedcpp-2024-03/eclipse/
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-28 11:33:23.667
+!MESSAGE idf_tools.py export output: OPENOCD_SCRIPTS=C:\Espressif\tools\openocd-esp32\v0.12.0-esp32-20230921\openocd-esp32\share\openocd\scripts
+IDF_CCACHE_ENABLE=1
+ESP_ROM_ELF_DIR=C:\Espressif\tools\esp-rom-elfs\20230320\
+IDF_PYTHON_ENV_PATH=C:\Espressif\python_env\idf5.2_py3.12_env
+ESP_IDF_VERSION=5.2
+PATH=C:\Espressif\tools\xtensa-esp-elf-gdb\12.1_20231023\xtensa-esp-elf-gdb\bin;C:\Espressif\tools\riscv32-esp-elf-gdb\12.1_20231023\riscv32-esp-elf-gdb\bin;C:\Espressif\tools\xtensa-esp-elf\esp-13.2.0_20230928\xtensa-esp-elf\bin;C:\Espressif\tools\esp-clang\16.0.1-fe4f10a809\esp-clang\bin;C:\Espressif\tools\riscv32-esp-elf\esp-13.2.0_20230928\riscv32-esp-elf\bin;C:\Espressif\tools\esp32ulp-elf\2.35_20220830\esp32ulp-elf\bin;C:\Espressif\tools\cmake\3.24.0\bin;C:\Espressif\tools\openocd-esp32\v0.12.0-esp32-20230921\openocd-esp32\bin;C:\Espressif\tools\ninja\1.11.1\;C:\Espressif\tools\idf-exe\1.0.3\;C:\Espressif\tools\ccache\4.8\ccache-4.8-windows-x86_64;C:\Espressif\tools\dfu-util\0.11\dfu-util-0.11-win64;C:\Espressif\tools\qemu-xtensa\esp_develop_8.1.3_20231206\qemu\bin;C:\Espressif\tools\qemu-riscv32\esp_develop_8.1.3_20231206\qemu\bin;C:\Espressif\python_env\idf5.2_py3.12_env\Scripts;C:\ESP-IDF\esp-idf-v5.2.1\tools;%PATH%
+IDF_DEACTIVATE_FILE_PATH=C:\Users\Steven\AppData\Local\Temp\tmplw3bsfcdidf_3372
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-28 11:33:23.679
+!MESSAGE PATH: C:\Espressif\tools\xtensa-esp-elf-gdb\12.1_20231023\xtensa-esp-elf-gdb\bin;C:\Espressif\tools\riscv32-esp-elf-gdb\12.1_20231023\riscv32-esp-elf-gdb\bin;C:\Espressif\tools\xtensa-esp-elf\esp-13.2.0_20230928\xtensa-esp-elf\bin;C:\Espressif\tools\esp-clang\16.0.1-fe4f10a809\esp-clang\bin;C:\Espressif\tools\riscv32-esp-elf\esp-13.2.0_20230928\riscv32-esp-elf\bin;C:\Espressif\tools\esp32ulp-elf\2.35_20220830\esp32ulp-elf\bin;C:\Espressif\tools\cmake\3.24.0\bin;C:\Espressif\tools\openocd-esp32\v0.12.0-esp32-20230921\openocd-esp32\bin;C:\Espressif\tools\ninja\1.11.1\;C:\Espressif\tools\idf-exe\1.0.3\;C:\Espressif\tools\ccache\4.8\ccache-4.8-windows-x86_64;C:\Espressif\tools\dfu-util\0.11\dfu-util-0.11-win64;C:\Espressif\tools\qemu-xtensa\esp_develop_8.1.3_20231206\qemu\bin;C:\Espressif\tools\qemu-riscv32\esp_develop_8.1.3_20231206\qemu\bin;C:\Espressif\python_env\idf5.2_py3.12_env\Scripts;C:\ESP-IDF\esp-idf-v5.2.1\tools;%PATH%
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-28 11:33:23.680
+!MESSAGE [C:\Espressif\tools\xtensa-esp-elf-gdb\12.1_20231023\xtensa-esp-elf-gdb\bin;C:\Espressif\tools\riscv32-esp-elf-gdb\12.1_20231023\riscv32-esp-elf-gdb\bin;C:\Espressif\tools\xtensa-esp-elf\esp-13.2.0_20230928\xtensa-esp-elf\bin;C:\Espressif\tools\esp-clang\16.0.1-fe4f10a809\esp-clang\bin;C:\Espressif\tools\riscv32-esp-elf\esp-13.2.0_20230928\riscv32-esp-elf\bin;C:\Espressif\tools\esp32ulp-elf\2.35_20220830\esp32ulp-elf\bin;C:\Espressif\tools\cmake\3.24.0\bin;C:\Espressif\tools\openocd-esp32\v0.12.0-esp32-20230921\openocd-esp32\bin;C:\Espressif\tools\ninja\1.11.1\;C:\Espressif\tools\idf-exe\1.0.3\;C:\Espressif\tools\ccache\4.8\ccache-4.8-windows-x86_64;C:\Espressif\tools\dfu-util\0.11\dfu-util-0.11-win64;C:\Espressif\tools\qemu-xtensa\esp_develop_8.1.3_20231206\qemu\bin;C:\Espressif\tools\qemu-riscv32\esp_develop_8.1.3_20231206\qemu\bin;C:\Espressif\python_env\idf5.2_py3.12_env\Scripts;C:\ESP-IDF\esp-idf-v5.2.1\tools;%PATH%]
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-28 11:33:23.809
+!MESSAGE Project Name:: Blink_LED_and_Print
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-28 11:33:23.809
+!MESSAGE Project:: P/Blink_LED_and_Print
+!SESSION 2024-05-29 10:08:19.385 -----------------------------------------------
+eclipse.buildId=4.31.0.20240307-1200
+java.version=22.0.1
+java.vendor=Eclipse Adoptium
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_GB
+Framework arguments:  -product org.eclipse.epp.package.embedcpp.product
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -product org.eclipse.epp.package.embedcpp.product
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-29 10:08:30.016
+!MESSAGE clangd: C:\Espressif\tools\esp-clang\16.0.1-fe4f10a809\esp-clang\bin\clangd.exe
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-29 10:08:30.020
+!MESSAGE clangd: C:\Espressif\tools\esp-clang\16.0.1-fe4f10a809\esp-clang\bin\clangd.exe
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-29 10:08:30.021
+!MESSAGE toolchain path: null
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-29 10:08:30.026
+!MESSAGE toolchain path: null
+
+!ENTRY org.eclipse.launchbar.core 2 0 2024-05-29 10:08:32.257
+!MESSAGE Enablement expression is missing for descriptor type com.espressif.idf.debug.gdbjtag.openocd.descriptorType
+
+!ENTRY org.eclipse.launchbar.core 2 0 2024-05-29 10:08:32.259
+!MESSAGE Enablement expression is missing for config provider for com.espressif.idf.debug.gdbjtag.openocd.descriptorType
+
+!ENTRY org.eclipse.launchbar.core 2 0 2024-05-29 10:08:32.287
+!MESSAGE Enablement expression is missing for config provider for com.espressif.idf.launch.serial.core.idf.descriptorType
+
+!ENTRY org.eclipse.launchbar.core 2 0 2024-05-29 10:08:32.288
+!MESSAGE Enablement expression is missing for descriptor type com.espressif.idf.launch.serial.core.idf.descriptorType
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-29 10:08:33.002
+!MESSAGE Initializing toolchain...
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-29 10:08:33.004
+!MESSAGE idf_tools.py path: C:\ESP-IDF\esp-idf-v5.2.1/tools/idf_tools.py
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-29 10:08:33.007
+!MESSAGE [C:\Espressif\python_env\idf5.2_py3.12_env\Scripts\python.exe, C:\ESP-IDF\esp-idf-v5.2.1/tools/idf_tools.py, export, --format=key-value]
+
+!ENTRY org.eclipse.lsp4e 2 0 2024-05-29 10:08:33.526
+!MESSAGE Could not get hover region due to timeout after 1000 milliseconds
+!STACK 0
+java.util.concurrent.TimeoutException
+	at java.base/java.util.concurrent.CompletableFuture.timedGet(CompletableFuture.java:1960)
+	at java.base/java.util.concurrent.CompletableFuture.get(CompletableFuture.java:2095)
+	at org.eclipse.lsp4e.operations.hover.LSPTextHover.getHoverRegion(LSPTextHover.java:155)
+	at org.eclipse.ui.internal.genericeditor.hover.CompositeTextHover.getHoverRegion(CompositeTextHover.java:101)
+	at org.eclipse.jface.text.TextViewerHoverManager.computeInformation(TextViewerHoverManager.java:128)
+	at org.eclipse.jface.text.AbstractInformationControlManager.doShowInformation(AbstractInformationControlManager.java:1101)
+	at org.eclipse.jface.text.AbstractHoverInformationControlManager$MouseTracker.mouseHover(AbstractHoverInformationControlManager.java:511)
+	at org.eclipse.swt.widgets.TypedListener.handleEvent(TypedListener.java:212)
+	at org.eclipse.swt.widgets.EventTable.sendEvent(EventTable.java:89)
+	at org.eclipse.swt.widgets.Display.sendEvent(Display.java:4274)
+	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1066)
+	at org.eclipse.swt.widgets.Display.runDeferredEvents(Display.java:4072)
+	at org.eclipse.swt.widgets.Display.readAndDispatch(Display.java:3660)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine$5.run(PartRenderingEngine.java:1151)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:339)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.run(PartRenderingEngine.java:1042)
+	at org.eclipse.e4.ui.internal.workbench.E4Workbench.createAndRunUI(E4Workbench.java:152)
+	at org.eclipse.ui.internal.Workbench.lambda$3(Workbench.java:639)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:339)
+	at org.eclipse.ui.internal.Workbench.createAndRunWorkbench(Workbench.java:546)
+	at org.eclipse.ui.PlatformUI.createAndRunWorkbench(PlatformUI.java:173)
+	at org.eclipse.ui.internal.ide.application.IDEApplication.start(IDEApplication.java:152)
+	at org.eclipse.equinox.internal.app.EclipseAppHandle.run(EclipseAppHandle.java:208)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.runApplication(EclipseAppLauncher.java:143)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.start(EclipseAppLauncher.java:109)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:439)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:271)
+	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:580)
+	at org.eclipse.equinox.launcher.Main.invokeFramework(Main.java:651)
+	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:588)
+	at org.eclipse.equinox.launcher.Main.run(Main.java:1459)
+
+!ENTRY org.eclipse.lsp4e 2 0 2024-05-29 10:08:34.532
+!MESSAGE Could not get hover information due to timeout after 1000 milliseconds
+!STACK 0
+java.util.concurrent.TimeoutException
+	at java.base/java.util.concurrent.CompletableFuture.timedGet(CompletableFuture.java:1960)
+	at java.base/java.util.concurrent.CompletableFuture.get(CompletableFuture.java:2095)
+	at org.eclipse.lsp4e.operations.hover.LSPTextHover.getHoverInfo(LSPTextHover.java:76)
+	at org.eclipse.ui.internal.genericeditor.hover.CompositeTextHover.getHoverInfo2(CompositeTextHover.java:60)
+	at org.eclipse.jface.text.TextViewerHoverManager$1.run(TextViewerHoverManager.java:155)
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-29 10:08:35.156
+!MESSAGE Eclipse Install location::file:/C:/Users/Steven/embedcpp-2024-03/eclipse/
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-29 10:08:35.157
+!MESSAGE esp-idf.json file doesnt exist at this location: /C:/Users/Steven/embedcpp-2024-03/eclipse/
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-29 10:08:36.493
+!MESSAGE idf_tools.py export output: OPENOCD_SCRIPTS=C:\Espressif\tools\openocd-esp32\v0.12.0-esp32-20230921\openocd-esp32\share\openocd\scripts
+IDF_CCACHE_ENABLE=1
+ESP_ROM_ELF_DIR=C:\Espressif\tools\esp-rom-elfs\20230320\
+IDF_PYTHON_ENV_PATH=C:\Espressif\python_env\idf5.2_py3.12_env
+ESP_IDF_VERSION=5.2
+PATH=C:\Espressif\tools\xtensa-esp-elf-gdb\12.1_20231023\xtensa-esp-elf-gdb\bin;C:\Espressif\tools\riscv32-esp-elf-gdb\12.1_20231023\riscv32-esp-elf-gdb\bin;C:\Espressif\tools\xtensa-esp-elf\esp-13.2.0_20230928\xtensa-esp-elf\bin;C:\Espressif\tools\esp-clang\16.0.1-fe4f10a809\esp-clang\bin;C:\Espressif\tools\riscv32-esp-elf\esp-13.2.0_20230928\riscv32-esp-elf\bin;C:\Espressif\tools\esp32ulp-elf\2.35_20220830\esp32ulp-elf\bin;C:\Espressif\tools\cmake\3.24.0\bin;C:\Espressif\tools\openocd-esp32\v0.12.0-esp32-20230921\openocd-esp32\bin;C:\Espressif\tools\ninja\1.11.1\;C:\Espressif\tools\idf-exe\1.0.3\;C:\Espressif\tools\ccache\4.8\ccache-4.8-windows-x86_64;C:\Espressif\tools\dfu-util\0.11\dfu-util-0.11-win64;C:\Espressif\tools\qemu-xtensa\esp_develop_8.1.3_20231206\qemu\bin;C:\Espressif\tools\qemu-riscv32\esp_develop_8.1.3_20231206\qemu\bin;C:\Espressif\python_env\idf5.2_py3.12_env\Scripts;C:\ESP-IDF\esp-idf-v5.2.1\tools;%PATH%
+IDF_DEACTIVATE_FILE_PATH=C:\Users\Steven\AppData\Local\Temp\tmpi91u_ne3idf_26412
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-29 10:08:36.493
+!MESSAGE PATH: C:\Espressif\tools\xtensa-esp-elf-gdb\12.1_20231023\xtensa-esp-elf-gdb\bin;C:\Espressif\tools\riscv32-esp-elf-gdb\12.1_20231023\riscv32-esp-elf-gdb\bin;C:\Espressif\tools\xtensa-esp-elf\esp-13.2.0_20230928\xtensa-esp-elf\bin;C:\Espressif\tools\esp-clang\16.0.1-fe4f10a809\esp-clang\bin;C:\Espressif\tools\riscv32-esp-elf\esp-13.2.0_20230928\riscv32-esp-elf\bin;C:\Espressif\tools\esp32ulp-elf\2.35_20220830\esp32ulp-elf\bin;C:\Espressif\tools\cmake\3.24.0\bin;C:\Espressif\tools\openocd-esp32\v0.12.0-esp32-20230921\openocd-esp32\bin;C:\Espressif\tools\ninja\1.11.1\;C:\Espressif\tools\idf-exe\1.0.3\;C:\Espressif\tools\ccache\4.8\ccache-4.8-windows-x86_64;C:\Espressif\tools\dfu-util\0.11\dfu-util-0.11-win64;C:\Espressif\tools\qemu-xtensa\esp_develop_8.1.3_20231206\qemu\bin;C:\Espressif\tools\qemu-riscv32\esp_develop_8.1.3_20231206\qemu\bin;C:\Espressif\python_env\idf5.2_py3.12_env\Scripts;C:\ESP-IDF\esp-idf-v5.2.1\tools;%PATH%
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-29 10:08:36.494
+!MESSAGE [C:\Espressif\tools\xtensa-esp-elf-gdb\12.1_20231023\xtensa-esp-elf-gdb\bin;C:\Espressif\tools\riscv32-esp-elf-gdb\12.1_20231023\riscv32-esp-elf-gdb\bin;C:\Espressif\tools\xtensa-esp-elf\esp-13.2.0_20230928\xtensa-esp-elf\bin;C:\Espressif\tools\esp-clang\16.0.1-fe4f10a809\esp-clang\bin;C:\Espressif\tools\riscv32-esp-elf\esp-13.2.0_20230928\riscv32-esp-elf\bin;C:\Espressif\tools\esp32ulp-elf\2.35_20220830\esp32ulp-elf\bin;C:\Espressif\tools\cmake\3.24.0\bin;C:\Espressif\tools\openocd-esp32\v0.12.0-esp32-20230921\openocd-esp32\bin;C:\Espressif\tools\ninja\1.11.1\;C:\Espressif\tools\idf-exe\1.0.3\;C:\Espressif\tools\ccache\4.8\ccache-4.8-windows-x86_64;C:\Espressif\tools\dfu-util\0.11\dfu-util-0.11-win64;C:\Espressif\tools\qemu-xtensa\esp_develop_8.1.3_20231206\qemu\bin;C:\Espressif\tools\qemu-riscv32\esp_develop_8.1.3_20231206\qemu\bin;C:\Espressif\python_env\idf5.2_py3.12_env\Scripts;C:\ESP-IDF\esp-idf-v5.2.1\tools;%PATH%]
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-29 10:08:36.627
+!MESSAGE Project Name:: Blink_LED_and_Print
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-29 10:08:36.627
+!MESSAGE Project:: P/Blink_LED_and_Print
